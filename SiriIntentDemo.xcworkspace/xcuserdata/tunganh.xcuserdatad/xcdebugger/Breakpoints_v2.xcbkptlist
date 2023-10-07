@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E0EB898F-FC99-4C58-95A9-FCAD4673B5EA"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A5AC42C-33A2-4D18-B41F-2C7A37D52B4E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/MBSPasswordView/MBSPasswordView/Classes/UI/Body/MBSBodyPasswordView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "btnTextColor"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0A5AC42C-33A2-4D18-B41F-2C7A37D52B4E - 3feb4a5ce1fd921b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MBSPasswordView.MBSBodyPasswordView.btnTextColor.didset : __C.UIColor"
+                  moduleName = "MBSPasswordView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tunganh/Desktop/a/Pods/MBSPasswordView/MBSPasswordView/Classes/UI/Body/MBSBodyPasswordView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "0A5AC42C-33A2-4D18-B41F-2C7A37D52B4E - 3feb4a5ce1fd921b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MBSPasswordView.MBSBodyPasswordView.btnTextColor.didset : __C.UIColor"
+                  moduleName = "MBSPasswordView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tunganh/Desktop/a/Pods/MBSPasswordView/MBSPasswordView/Classes/UI/Body/MBSBodyPasswordView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "454">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "0E0DE2E8-469B-4C91-883C-2EBAFB444CA4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "1336734A-C2A8-4244-BD4E-19B825330C3E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "DED8A621-D5E8-4E4D-AFD9-3B083E0BD64E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,88 @@
+"General" = "Generale";
+"Choose apps to lock" = "Scegli le app da bloccare";
+"Instructions" = "Istruzioni";
+"Topics" = "Argomenti";
+"Change password" = "Cambia password";
+"Change language" = "Cambia lingua";
+"Feedback" = "Feedback";
+"Send feedback" = "Invia feedback";
+"Share AppLock" = "Condividi AppLock";
+"Privacy Policy" = "Informativa sulla privacy";
+"Search" = "Cerca";
+"Click to lock" = "Clicca per bloccare";
+"Setting" = "Impostazione";
+"Theme" = "Tema";
+"Watch video tutorial" = "Guarda il tutorial video";
+// HD
+"Step 1" = "Passo 1";
+"Step 2" = "Passo 2";
+"Step 3" = "Passo 3";
+"Step 4" = "Passo 4";
+"Step 5" = "Passo 5";
+"Step 6" = "Passo 6";
+"Step 7" = "Passo 7";
+"Open the app, select the 'Application' you want to lock and 'open Shortcut' on the iPhone" = "Apri l'app, seleziona l' 'Applicazione' che desideri bloccare e 'apri Shortcut' sull'iPhone";
+"Tap the 'Automation' button, then click 'Create personal automation'" = "Tocca il pulsante 'Automazione', quindi fai clic su 'Crea automazione personale'";
+"Scroll down and tap 'App'. Tick ​​'Is Opened' and click 'Choose'" = "Scorri verso il basso e tocca 'App'. Spunta 'È aperto' e fai clic su 'Scegli'";
+"Select the app you want to lock, then click 'Done' and click 'Next', then click 'Add action'" = "Seleziona l'app che desideri bloccare, quindi fai clic su 'Fine' e fai clic su 'Avanti', quindi fai clic su 'Aggiungi azione'";
+"Select 'Apps' and click 'AppLock' and click 'Lock'" = "Seleziona 'App' e fai clic su 'AppLock' e fai clic su 'Blocca'";
+"Click 'Select App' and select the application you want to lock" = "Fai clic su 'Seleziona app' e seleziona l'applicazione che desideri bloccare";
+"Then turn off 'Ask Before Running' and select 'Done'. You have successfully set up!" = "Quindi disattiva 'Chiedi prima dell'esecuzione' e seleziona 'Fine'. Hai configurato con successo!";
+
+           
+//Popup
+"To perform app locking, you need to use App Shortcuts, click here for instructions" = "Per eseguire il blocco delle app, è necessario utilizzare le scorciatoie dell'app, fai clic qui per le istruzioni";
+"Open shortcuts" = "Apri scorciatoie";
+"Cancel" = "Annulla";
+"Unlock" = "Sblocca";
+"Confirm unlocking?" = "Conferma lo sblocco?";
+// PWview
+"Confirm new password" = "Conferma la nuova password";
+"Current Password" = "Password attuale";
+"New Password" = "Nuova password";
+"Request Password" = "Richiedi la password";
+"TryAgainIn" = "Riprova tra";
+"Enter password" = "Inserisci la password";
+"Delete" = "Elimina";
+// AlertChangePass
+"Password matches" = "Le password corrispondono";
+"Password has been changed successfully" = "La password è stata cambiata con successo";
+// mailComposeVC
+
+"Your email subject goes here" = "Il tuo oggetto dell'email va qui";
+"Your email body goes here" = "Il corpo dell'email va qui";
+"Error" = "Errore";
+"Cannot send email on this device" = "Impossibile inviare email su questo dispositivo";
+"Close" = "Chiudi";
+// Ngôn ngữ
+"Select your language" = "Seleziona la tua lingua";
+"de" = "Tedesco";
+"zh-Hans" = "Cinese semplificato";
+"en" = "Inglese";
+"es" = "Spagnolo";
+"it" = "Italiano";
+"vi" = "Vietnamita";
+"fr" = "Francese";
+"ja" = "Giapponese"; // Tiếng Nhật
+"ko" = "Coreano"; // Tiếng Hàn
+"pl" = "Polacco"; // Tiếng Ba Lan
+"th" = "Tailandese"; // Tiếng Thái
+"pt-PT" = "Portoghese (Europeo)"; // Tiếng Bồ Đào Nha (Châu Âu)
+
+"Change security question" = "Cambia domanda di sicurezza";
+"Please enter your answer!!!" = "Inserisci la tua risposta!!!";
+"Create New Password" = "Crea una nuova password";
+"SECURITY QUESTION" = "DOMANDA DI SICUREZZA";
+"What is your best friend's name?" = "Qual è il nome del tuo miglior amico?";
+"Security questions are used when you forget your password. You can change questions at any time!" = "Le domande di sicurezza vengono utilizzate quando dimentichi la tua password. Puoi cambiarle in qualsiasi momento!";
+"Next" = "Avanti";
+"Change" = "Cambia";
+"Protect your Apps and your privacy" = "Proteggi le tue app e la tua privacy";
+
+"Give us 5 stars" = "Dacci 5 stelle";
+"Click to Unlock" = "Clicca per sbloccare";
+"RATE THIS APP" = "VALUTA QUESTA APP";
+"Your feedback are the motivation to help our team develop better products." = "Il tuo feedback è la motivazione per aiutare il nostro team a sviluppare prodotti migliori.";
+"LATER" = "DOPO";
+"RATE" = "VALUTA";
+"You have not rated!" = "Non hai ancora valutato!";

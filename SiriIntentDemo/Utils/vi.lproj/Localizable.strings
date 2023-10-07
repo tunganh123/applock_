@@ -1,0 +1,91 @@
+
+
+"General" = "Chung";
+"Choose apps to lock" = "Chọn ứng dụng để khóa";
+"Instructions" = "Hướng dẫn";
+"Topics" = "Chủ đề";
+"Change password" = "Thay đổi mật khẩu";
+"Change language" = "Thay đổi ngôn ngữ";
+"Feedback" = "Phản hồi";
+"Send feedback" = "Gửi phản hồi";
+"Share AppLock" = "Chia sẻ AppLock";
+"Privacy Policy" = "Chính sách Quyền riêng tư";
+"Search" = "Tìm kiếm";
+"Click to lock" = "Nhấn để khóa";
+"Setting" = "Cài đặt";
+"Theme" = "Chủ đề";
+"Watch video tutorial" = "Xem video hướng dẫn";
+// HD
+"Step 1" = "Bước 1";
+"Step 2" = "Bước 2";
+"Step 3" = "Bước 3";
+"Step 4" = "Bước 4";
+"Step 5" = "Bước 5";
+"Step 6" = "Bước 6";
+"Step 7" = "Bước 7";
+"Open the app, select the 'Application' you want to lock and 'open Shortcut' on the iPhone" = "Mở ứng dụng, chọn 'Ứng dụng' bạn muốn khóa và 'mở Phím tắt' trên iPhone";
+"Tap the 'Automation' button, then click 'Create personal automation'" = "Nhấn vào 'Tự động hóa', sau đó nhấp vào 'Tạo tự động hóa cá nhân'";
+"Scroll down and tap 'App'. Tick ​​'Is Opened' and click 'Choose'" = "Cuộn xuống và nhấn vào 'Ứng dụng'. Đánh dấu vào 'Đã mở' và nhấp vào 'Chọn'";
+"Select the app you want to lock, then click 'Done' and click 'Next', then click 'Add action'" = "Chọn ứng dụng bạn muốn khóa, sau đó nhấp vào 'Xong' và nhấp vào 'Tiếp theo', sau đó nhấp vào 'Thêm hành động'";
+"Select 'Apps' and click 'AppLock' and click 'Lock'" = "Chọn 'Ứng dụng' và nhấp vào 'AppLock' và nhấp vào 'Khóa'";
+"Click 'Select App' and select the application you want to lock" = "Nhấp vào 'Chọn ứng dụng' và chọn ứng dụng muốn khóa";
+"Then turn off 'Ask Before Running' and select 'Done'. You have successfully set up!" = "Sau đó tắt “Hỏi trước khi chạy” và chọn “Xong”. Bạn đã thiết lập thành công!";
+
+           
+//Popup
+"To perform app locking, you need to use App Shortcuts, click here for instructions" = "Để thực hiện khóa ứng dụng, bạn cần sử dụng Phím tắt ứng dụng, nhấp vào đây để xem hướng dẫn";
+"Open shortcuts" = "Mở phím tắt";
+"Cancel" = "Huỷ";
+"Unlock" = "Mở khoá";
+"Confirm unlocking?" = "Xác nhận mở khóa?";
+// PWview
+"Confirm new password" = "Xác nhận mật khẩu mới";
+"Current Password" = "Nhập mật khẩu hiện tại";
+"New Password" = "Mật khẩu mới";
+"Request Password" = "Yêu cầu mật khẩu";
+"TryAgainIn" = "Hãy thử lại";
+"Enter password" = "Nhập mật khẩu";
+"Delete" = "Xoá";
+// AlertChangePass
+"Password matches" = "Mật khẩu khớp";
+"Password has been changed successfully" = "Mật khẩu đã được thay đổi thành công";
+// mailComposeVC
+
+"Your email subject goes here" = "Tiêu đề email của bạn ở đây";
+"Your email body goes here" = "Nội dung email của bạn ở đây";
+"Error" = "Lỗi";
+"Cannot send email on this device" = "Không thể gửi email trên thiết bị này";
+"Close" = "Đóng";
+// Ngôn ngữ
+"Select your language" = "Chọn ngôn ngữ của bạn";
+"de" = "Tiếng Đức";
+"zh-Hans" = "Tiếng Trung Quốc";
+"en" = "Tiếng Anh";
+"es" = "Tiếng Tây Ban Nha";
+"it" = "Tiếng Ý";
+"vi" = "Tiếng Việt";
+"fr" = "Tiếng Pháp";
+"ja" = "Tiếng Nhật";
+"ko" = "Tiếng Hàn";
+"pl" = "Tiếng Ba Lan";
+"th" = "Tiếng Thái";
+"pt-PT" = "Tiếng Bồ Đào Nha (Châu Âu)";
+
+"Change security question" = "Thay đổi câu hỏi bảo mật";
+"Please enter your answer!!!" = "Vui lòng nhập câu trả lời!!!";
+"Create New Password" = "Tạo mật khẩu mới";
+"SECURITY QUESTION" = "CÂU HỎI BẢO MẬT";
+"What is your best friend's name?" = "Tên người bạn thân nhất của bạn là gì?";
+"Security questions are used when you forget your password. You can change questions at any time!" = "Câu hỏi bảo mật được sử dụng khi bạn quên mật khẩu. Bạn có thể thay đổi câu hỏi bất cứ lúc nào!";
+"Next" = "Tiếp theo";
+"Change" = "Thay đổi";
+"Protect your Apps and your privacy" = "Bảo vệ ứng dụng và quyền riêng tư của bạn";
+
+
+"Give us 5 stars" = "Hãy đánh giá chúng tôi 5 sao";
+"Click to Unlock" = "Nhấn để mở khóa";
+"RATE THIS APP" = "ĐÁNH GIÁ ỨNG DỤNG";
+"Your feedback are the motivation to help our team develop better products." = "Phản hồi của bạn là động lực giúp nhóm chúng tôi phát triển sản phẩm tốt hơn.";
+"LATER" = "ĐỂ SAU";
+"RATE" = "ĐÁNH GIÁ";
+"You have not rated!" = "Bạn chưa đánh giá!";

@@ -1,0 +1,86 @@
+
+"General" = "Ogólne";
+"Choose apps to lock" = "Wybierz aplikacje do zablokowania";
+"Instructions" = "Instrukcje";
+"Topics" = "Tematy";
+"Change password" = "Zmień hasło";
+"Change language" = "Zmień język";
+"Feedback" = "Opinie";
+"Send feedback" = "Wyślij opinię";
+"Share AppLock" = "Udostępnij AppLock";
+"Privacy Policy" = "Polityka prywatności";
+"Search" = "Szukaj";
+"Click to lock" = "Kliknij, aby zablokować";
+"Setting" = "Ustawienia";
+"Theme" = "Motyw";
+"Watch video tutorial" = "Oglądaj samouczek wideo";
+// HD
+"Step 1" = "Krok 1";
+"Step 2" = "Krok 2";
+"Step 3" = "Krok 3";
+"Step 4" = "Krok 4";
+"Step 5" = "Krok 5";
+"Step 6" = "Krok 6";
+"Step 7" = "Krok 7";
+"Open the app, select the 'Application' you want to lock and 'open Shortcut' on the iPhone" = "Otwórz aplikację, wybierz 'Aplikację', którą chcesz zablokować i 'otwórz skrót' na iPhone";
+"Tap the 'Automation' button, then click 'Create personal automation'" = "Naciśnij przycisk 'Automatyzacja', a następnie kliknij 'Utwórz automatyzację osobistą'";
+"Scroll down and tap 'App'. Tick 'Is Opened' and click 'Choose'" = "Przewiń w dół i naciśnij 'Aplikacja'. Zaznacz 'Jest otwarta' i kliknij 'Wybierz'";
+"Select the app you want to lock, then click 'Done' and click 'Next', then click 'Add action'" = "Wybierz aplikację, którą chcesz zablokować, następnie kliknij 'Gotowe', a potem 'Dalej', a potem 'Dodaj akcję'";
+"Select 'Apps' and click 'AppLock' and click 'Lock'" = "Wybierz 'Aplikacje' i kliknij 'AppLock', a następnie kliknij 'Zablokuj'";
+"Click 'Select App' and select the application you want to lock" = "Kliknij 'Wybierz aplikację' i wybierz aplikację, którą chcesz zablokować";
+"Then turn off 'Ask Before Running' and select 'Done'. You have successfully set up!" = "Następnie wyłącz opcję 'Pytaj przed uruchomieniem' i wybierz 'Gotowe'. Konfiguracja zakończona sukcesem!";
+//Popup
+"To perform app locking, you need to use App Shortcuts, click here for instructions" = "Aby zablokować aplikację, musisz używać skrótów aplikacji, kliknij tutaj, aby uzyskać instrukcje";
+"Open shortcuts" = "Otwórz skróty";
+"Cancel" = "Anuluj";
+"Unlock" = "Odblokuj";
+"Confirm unlocking?" = "Potwierdzić odblokowanie?";
+// PWview
+"Confirm new password" = "Potwierdź nowe hasło";
+"Current Password" = "Aktualne hasło";
+"New Password" = "Nowe hasło";
+"Request Password" = "Zażądaj hasła";
+"TryAgainIn" = "Spróbuj ponownie za";
+"Enter password" = "Wprowadź hasło";
+"Delete" = "Usuń";
+// AlertChangePass
+"Password matches" = "Hasła pasują";
+"Password has been changed successfully" = "Hasło zostało zmienione pomyślnie";
+// mailComposeVC
+"Your email subject goes here" = "Temat Twojej wiadomości e-mail";
+"Your email body goes here" = "Treść Twojej wiadomości e-mail";
+"Error" = "Błąd";
+"Cannot send email on this device" = "Nie można wysyłać e-maili na tym urządzeniu";
+"Close" = "Zamknij";
+// Ngôn ngữ
+"Select your language" = "Wybierz swój język";
+"de" = "Niemiecki";
+"zh-Hans" = "Chiński uproszczony";
+"en" = "Angielski";
+"es" = "Hiszpański";
+"it" = "Włoski";
+"vi" = "Wietnamski";
+"fr" = "Francuski";
+"ja" = "Japoński";
+"ko" = "Koreański";
+"pl" = "Polski";
+"th" = "Tajski";
+"pt-PT" = "Portugalski (Europejski)";
+
+"Change security question" = "Zmień pytanie zabezpieczające";
+"Please enter your answer!!!" = "Proszę wprowadzić odpowiedź!!!";
+"Create New Password" = "Utwórz nowe hasło";
+"SECURITY QUESTION" = "PYTANIE ZABEZPIECZAJĄCE";
+"What is your best friend's name?" = "Jak nazywa się twój najlepszy przyjaciel?";
+"Security questions are used when you forget your password. You can change questions at any time!" = "Pytania zabezpieczające są używane, gdy zapomnisz hasło. Możesz je zmieniać w dowolnym momencie!";
+"Next" = "Dalej";
+"Change" = "Zmień";
+"Protect your Apps and your privacy" = "Chron swoje aplikacje i prywatność";
+
+"Give us 5 stars" = "Daj nam 5 gwiazdek";
+"Click to Unlock" = "Kliknij, aby odblokować";
+"RATE THIS APP" = "OCENIĆ TĘ APLIKACJĘ";
+"Your feedback are the motivation to help our team develop better products." = "Twoja opinia jest motywacją, która pomaga naszemu zespołowi rozwijać lepsze produkty.";
+"LATER" = "PÓŹNIEJ";
+"RATE" = "OCENIĆ";
+"You have not rated!" = "Nie oceniłeś jeszcze!";

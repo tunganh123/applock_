@@ -1,0 +1,85 @@
+"General" = "Geral";
+"Choose apps to lock" = "Escolher aplicativos para bloquear";
+"Instructions" = "Instruções";
+"Topics" = "Tópicos";
+"Change password" = "Alterar senha";
+"Change language" = "Alterar idioma";
+"Feedback" = "Comentários";
+"Send feedback" = "Enviar comentários";
+"Share AppLock" = "Compartilhar AppLock";
+"Privacy Policy" = "Política de Privacidade";
+"Search" = "Pesquisar";
+"Click to lock" = "Clique para bloquear";
+"Setting" = "Configuração";
+"Theme" = "Tema";
+"Watch video tutorial" = "Assistir ao tutorial em vídeo";
+// HD
+"Step 1" = "Passo 1";
+"Step 2" = "Passo 2";
+"Step 3" = "Passo 3";
+"Step 4" = "Passo 4";
+"Step 5" = "Passo 5";
+"Step 6" = "Passo 6";
+"Step 7" = "Passo 7";
+"Open the app, select the 'Application' you want to lock and 'open Shortcut' on the iPhone" = "Abra o aplicativo, selecione o 'Aplicativo' que deseja bloquear e 'abra Atalho' no iPhone";
+"Tap the 'Automation' button, then click 'Create personal automation'" = "Toque no botão 'Automatização' e, em seguida, clique em 'Criar automação pessoal'";
+"Scroll down and tap 'App'. Tick 'Is Opened' and click 'Choose'" = "Role para baixo e toque em 'App'. Marque 'Está aberto' e clique em 'Escolher'";
+"Select the app you want to lock, then click 'Done' and click 'Next', then click 'Add action'" = "Selecione o aplicativo que deseja bloquear, clique em 'Concluído' e clique em 'Avançar', depois clique em 'Adicionar ação'";
+"Select 'Apps' and click 'AppLock' and click 'Lock'" = "Selecione 'Aplicativos' e clique em 'AppLock' e clique em 'Bloquear'";
+"Click 'Select App' and select the application you want to lock" = "Clique em 'Selecionar aplicativo' e selecione o aplicativo que deseja bloquear";
+"Then turn off 'Ask Before Running' and select 'Done'. You have successfully set up!" = "Em seguida, desligue 'Perguntar antes de executar' e selecione 'Concluído'. Você configurou com sucesso!";
+//Popup
+"To perform app locking, you need to use App Shortcuts, click here for instructions" = "Para realizar o bloqueio de aplicativo, você precisa usar Atalhos de aplicativo, clique aqui para obter instruções";
+"Open shortcuts" = "Abrir atalhos";
+"Cancel" = "Cancelar";
+"Unlock" = "Desbloquear";
+"Confirm unlocking?" = "Confirmar desbloqueio?";
+// PWview
+"Confirm new password" = "Confirmar nova senha";
+"Current Password" = "Senha atual";
+"New Password" = "Nova senha";
+"Request Password" = "Solicitar senha";
+"TryAgainIn" = "Tente novamente em";
+"Enter password" = "Digite a senha";
+"Delete" = "Excluir";
+// AlertChangePass
+"Password matches" = "Senhas correspondem";
+"Password has been changed successfully" = "A senha foi alterada com sucesso";
+// mailComposeVC
+"Your email subject goes here" = "O assunto do seu email vai aqui";
+"Your email body goes here" = "O corpo do seu email vai aqui";
+"Error" = "Erro";
+"Cannot send email on this device" = "Não é possível enviar email neste dispositivo";
+"Close" = "Fechar";
+// Ngôn ngữ
+"Select your language" = "Escolha o seu idioma";
+"de" = "Alemão";
+"zh-Hans" = "Chinês Simplificado";
+"en" = "Inglês";
+"es" = "Espanhol";
+"it" = "Italiano";
+"vi" = "Vietnamita";
+"fr" = "Francês";
+"ja" = "Japonês";
+"ko" = "Coreano";
+"pl" = "Polonês";
+"th" = "Tailandês";
+"pt-PT" = "Português (Europeu)";
+
+"Change security question" = "Alterar pergunta de segurança";
+"Please enter your answer!!!" = "Por favor, insira a sua resposta!!!";
+"Create New Password" = "Criar nova senha";
+"SECURITY QUESTION" = "PERGUNTA DE SEGURANÇA";
+"What is your best friend's name?" = "Qual é o nome do seu melhor amigo?";
+"Security questions are used when you forget your password. You can change questions at any time!" = "As perguntas de segurança são usadas quando se esquece da senha. Pode alterar as perguntas a qualquer momento!";
+"Next" = "Seguinte";
+"Change" = "Alterar";
+"Protect your Apps and your privacy" = "Proteja as suas aplicações e a sua privacidade";
+
+"Give us 5 stars" = "Dê-nos 5 estrelas";
+"Click to Unlock" = "Clique para desbloquear";
+"RATE THIS APP" = "AVALIE ESTE APLICATIVO";
+"Your feedback are the motivation to help our team develop better products." = "O seu feedback é a motivação para ajudar nossa equipe a desenvolver produtos melhores.";
+"LATER" = "MAIS TARDE";
+"RATE" = "AVALIAR";
+"You have not rated!" = "Você ainda não avaliou!";

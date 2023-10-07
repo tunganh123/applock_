@@ -1,0 +1,86 @@
+
+"General" = "ทั่วไป";
+"Choose apps to lock" = "เลือกแอปที่จะล็อก";
+"Instructions" = "คำสั่ง";
+"Topics" = "หัวข้อ";
+"Change password" = "เปลี่ยนรหัสผ่าน";
+"Change language" = "เปลี่ยนภาษา";
+"Feedback" = "ข้อเสนอแนะ";
+"Send feedback" = "ส่งข้อเสนอแนะ";
+"Share AppLock" = "แบ่งปัน AppLock";
+"Privacy Policy" = "นโยบายความเป็นส่วนตัว";
+"Search" = "ค้นหา";
+"Click to lock" = "คลิกเพื่อล็อก";
+"Setting" = "การตั้งค่า";
+"Theme" = "ธีม";
+"Watch video tutorial" = "รับชมคู่มือวิดีโอ";
+// HD
+"Step 1" = "ขั้นตอนที่ 1";
+"Step 2" = "ขั้นตอนที่ 2";
+"Step 3" = "ขั้นตอนที่ 3";
+"Step 4" = "ขั้นตอนที่ 4";
+"Step 5" = "ขั้นตอนที่ 5";
+"Step 6" = "ขั้นตอนที่ 6";
+"Step 7" = "ขั้นตอนที่ 7";
+"Open the app, select the 'Application' you want to lock and 'open Shortcut' on the iPhone" = "เปิดแอปพลิเคชัน เลือก 'แอปพลิเคชัน' ที่คุณต้องการล็อกและ 'เปิดทางลัด' บน iPhone";
+"Tap the 'Automation' button, then click 'Create personal automation'" = "แตะที่ปุ่ม 'อัตโนมัติ' จากนั้นคลิก 'สร้างอัตโนมัติส่วนบุคคล'";
+"Scroll down and tap 'App'. Tick 'Is Opened' and click 'Choose'" = "เลื่อนลงและแตะ 'แอป'. ติ๊ก 'เปิดแล้ว' และคลิก 'เลือก'";
+"Select the app you want to lock, then click 'Done' and click 'Next', then click 'Add action'" = "เลือกแอปที่คุณต้องการล็อก จากนั้นคลิก 'เสร็จสิ้น' และคลิก 'ถัดไป' จากนั้นคลิก 'เพิ่มการดำเนินการ'";
+"Select 'Apps' and click 'AppLock' and click 'Lock'" = "เลือก 'แอปพลิเคชัน' และคลิก 'AppLock' และคลิก 'ล็อก'";
+"Click 'Select App' and select the application you want to lock" = "คลิก 'เลือกแอป' และเลือกแอปพลิเคชันที่คุณต้องการล็อก";
+"Then turn off 'Ask Before Running' and select 'Done'. You have successfully set up!" = "จากนั้นปิด 'ถามก่อนเริ่มทำงาน' และเลือก 'เสร็จสิ้น' คุณได้ตั้งค่าเสร็จเรียบร้อยแล้ว!";
+//Popup
+"To perform app locking, you need to use App Shortcuts, click here for instructions" = "เพื่อทำการล็อกแอป คุณจำเป็นต้องใช้ App Shortcuts คลิกที่นี่สำหรับคำแนะนำ";
+"Open shortcuts" = "เปิดทางลัด";
+"Cancel" = "ยกเลิก";
+"Unlock" = "ปลดล็อก";
+"Confirm unlocking?" = "ยืนยันการปลดล็อก?";
+// PWview
+"Confirm new password" = "ยืนยันรหัสผ่านใหม่";
+"Current Password" = "รหัสผ่านปัจจุบัน";
+"New Password" = "รหัสผ่านใหม่";
+"Request Password" = "ร้องขอรหัสผ่าน";
+"TryAgainIn" = "ลองอีกครั้งใน";
+"Enter password" = "ใส่รหัสผ่าน";
+"Delete" = "ลบ";
+// AlertChangePass
+"Password matches" = "รหัสผ่านตรงกัน";
+"Password has been changed successfully" = "รหัสผ่านถูกเปลี่ยนแล้วสำเร็จ";
+// mailComposeVC
+"Your email subject goes here" = "หัวข้ออีเมลของคุณอยู่ที่นี่";
+"Your email body goes here" = "เนื้อหาอีเมลของคุณอยู่ที่นี่";
+"Error" = "ข้อผิดพลาด";
+"Cannot send email on this device" = "ไม่สามารถส่งอีเมลบนอุปกรณ์นี้ได้";
+"Close" = "ปิด";
+// Ngôn ngữ
+"Select your language" = "เลือกภาษาของคุณ";
+"de" = "เยอรมัน";
+"zh-Hans" = "จีนตัวย่อ";
+"en" = "อังกฤษ";
+"es" = "สเปน";
+"it" = "อิตาลี";
+"vi" = "เวียดนาม";
+"fr" = "ฝรั่งเศส";
+"ja" = "ญี่ปุ่น";
+"ko" = "เกาหลี";
+"pl" = "โปแลนด์";
+"th" = "ไทย";
+"pt-PT" = "โปรตุเกส (ยุโรป)";
+
+"Change security question" = "เปลี่ยนคำถามความปลอดภัย";
+"Please enter your answer!!!" = "กรุณาใส่คำตอบของคุณ!!!";
+"Create New Password" = "สร้างรหัสผ่านใหม่";
+"SECURITY QUESTION" = "คำถามความปลอดภัย";
+"What is your best friend's name?" = "ชื่อเพื่อนที่ดีที่สุดของคุณคืออะไร?";
+"Security questions are used when you forget your password. You can change questions at any time!" = "คำถามความปลอดภัยใช้เมื่อคุณลืมรหัสผ่านของคุณ คุณสามารถเปลี่ยนคำถามได้ในทุกเวลา!";
+"Next" = "ถัดไป";
+"Change" = "เปลี่ยน";
+"Protect your Apps and your privacy" = "ป้องกันแอปและความเป็นส่วนตัวของคุณ";
+
+"Give us 5 stars" = "ให้เรา 5 ดาว";
+"Click to Unlock" = "คลิกเพื่อปลดล็อค";
+"RATE THIS APP" = "ให้คะแนนแอปนี้";
+"Your feedback are the motivation to help our team develop better products." = "ความคิดเห็นของคุณเป็นแรงผลักดันให้ทีมของเราพัฒนาผลิตภัณฑ์ที่ดีขึ้น";
+"LATER" = "ภายหลัง";
+"RATE" = "ให้คะแนน";
+"You have not rated!" = "คุณยังไม่ได้ให้คะแนน!";

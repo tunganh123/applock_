@@ -1,0 +1,88 @@
+"General" = "Allgemein";
+"Choose apps to lock" = "Apps zum Sperren auswählen";
+"Instructions" = "Anweisungen";
+"Topics" = "Themen";
+"Change password" = "Passwort ändern";
+"Change language" = "Sprache ändern";
+"Feedback" = "Feedback";
+"Send feedback" = "Feedback senden";
+"Share AppLock" = "AppLock teilen";
+"Privacy Policy" = "Datenschutzrichtlinie";
+"Search" = "Suche";
+"Click to lock" = "Klicken Sie zum Sperren";
+"Setting" = "Einstellung";
+"Theme" = "Thema";
+"Watch video tutorial" = "Videoanleitung ansehen";
+// HD
+"Step 1" = "Schritt 1";
+"Step 2" = "Schritt 2";
+"Step 3" = "Schritt 3";
+"Step 4" = "Schritt 4";
+"Step 5" = "Schritt 5";
+"Step 6" = "Schritt 6";
+"Step 7" = "Schritt 7";
+"Open the app, select the 'Application' you want to lock and 'open Shortcut' on the iPhone" = "Öffnen Sie die App, wählen Sie die 'Anwendung', die Sie sperren möchten, und 'öffnen Sie die Verknüpfung' auf dem iPhone";
+"Tap the 'Automation' button, then click 'Create personal automation'" = "Tippen Sie auf die 'Automatisierung' Schaltfläche und klicken Sie dann auf 'Persönliche Automatisierung erstellen'";
+"Scroll down and tap 'App'. Tick ​​'Is Opened' and click 'Choose'" = "Scrollen Sie nach unten und tippen Sie auf 'App'. Aktivieren Sie 'Ist geöffnet' und klicken Sie auf 'Auswählen'";
+"Select the app you want to lock, then click 'Done' and click 'Next', then click 'Add action'" = "Wählen Sie die App aus, die Sie sperren möchten, und klicken Sie dann auf 'Fertig' und anschließend auf 'Weiter' und dann auf 'Aktion hinzufügen'";
+"Select 'Apps' and click 'AppLock' and click 'Lock'" = "Wählen Sie 'Apps' und klicken Sie auf 'AppLock' und dann auf 'Sperren'";
+"Click 'Select App' and select the application you want to lock" = "Klicken Sie auf 'App auswählen' und wählen Sie die Anwendung aus, die Sie sperren möchten";
+"Then turn off 'Ask Before Running' and select 'Done'. You have successfully set up!" = "Schalten Sie dann 'Vor Ausführung fragen' aus und wählen Sie 'Fertig'. Sie haben die Einrichtung erfolgreich abgeschlossen!";
+
+           
+//Popup
+"To perform app locking, you need to use App Shortcuts, click here for instructions" = "Um App-Sperrungen durchzuführen, müssen Sie App-Verknüpfungen verwenden. Klicken Sie hier für Anweisungen";
+"Open shortcuts" = "Verknüpfungen öffnen";
+"Cancel" = "Abbrechen";
+"Unlock" = "Freischalten";
+"Confirm unlocking?" = "Freischaltung bestätigen?";
+// PWview
+"Confirm new password" = "Neues Passwort bestätigen";
+"Current Password" = "Aktuelles Passwort";
+"New Password" = "Neues Passwort";
+"Request Password" = "Passwort anfordern";
+"TryAgainIn" = "Erneut versuchen in";
+"Enter password" = "Passwort eingeben";
+"Delete" = "Löschen";
+// AlertChangePass
+"Password matches" = "Passwort stimmt überein";
+"Password has been changed successfully" = "Das Passwort wurde erfolgreich geändert";
+// mailComposeVC
+
+"Your email subject goes here" = "Ihr Betreff geht hierhin";
+"Your email body goes here" = "Ihr E-Mail-Text geht hierhin";
+"Error" = "Fehler";
+"Cannot send email on this device" = "E-Mail kann auf diesem Gerät nicht gesendet werden";
+"Close" = "Schließen";
+// Ngôn ngữ
+"Select your language" = "Wählen Sie Ihre Sprache";
+"de" = "Deutsch";
+"zh-Hans" = "Vereinfachtes Chinesisch";
+"en" = "Englisch";
+"es" = "Spanisch";
+"it" = "Italienisch";
+"vi" = "Vietnamesisch";
+"fr" = "Französisch";
+"ja" = "Japanisch"; // Tiếng Nhật
+"ko" = "Koreanisch"; // Tiếng Hàn
+"pl" = "Polnisch"; // Tiếng Ba Lan
+"th" = "Thailändisch"; // Tiếng Thái
+"pt-PT" = "Portugiesisch (Europäisch)"; // Tiếng Bồ Đào Nha (Châu Âu)
+
+"Change security question" = "Sicherheitsfrage ändern";
+"Please enter your answer!!!" = "Bitte geben Sie Ihre Antwort ein!!!";
+"Create New Password" = "Neues Passwort erstellen";
+"SECURITY QUESTION" = "SICHERHEITSFRAGE";
+"What is your best friend's name?" = "Wie heißt dein bester Freund?";
+"Security questions are used when you forget your password. You can change questions at any time!" = "Sicherheitsfragen werden verwendet, wenn Sie Ihr Passwort vergessen haben. Sie können die Fragen jederzeit ändern!";
+"Next" = "Weiter";
+"Change" = "Ändern";
+"Protect your Apps and your privacy" = "Schützen Sie Ihre Apps und Ihre Privatsphäre";
+
+"Give us 5 stars" = "Geben Sie uns 5 Sterne";
+"Click to Unlock" = "Klicken Sie zum Entsperren";
+"RATE THIS APP" = "BEWERTEN SIE DIESE APP";
+"Your feedback are the motivation to help our team develop better products." = "Ihr Feedback ist die Motivation, unserem Team zu helfen, bessere Produkte zu entwickeln.";
+"LATER" = "SPÄTER";
+"RATE" = "BEWERTEN";
+"You have not rated!" = "Sie haben noch nicht bewertet!";

@@ -1,0 +1,85 @@
+"General" = "일반";
+"Choose apps to lock" = "잠금할 앱 선택";
+"Instructions" = "지침";
+"Topics" = "주제";
+"Change password" = "비밀번호 변경";
+"Change language" = "언어 변경";
+"Feedback" = "피드백";
+"Send feedback" = "피드백 보내기";
+"Share AppLock" = "AppLock 공유";
+"Privacy Policy" = "개인 정보 보호 정책";
+"Search" = "검색";
+"Click to lock" = "클릭하여 잠금";
+"Setting" = "설정";
+"Theme" = "테마";
+"Watch video tutorial" = "비디오 튜토리얼 시청";
+// HD
+"Step 1" = "단계 1";
+"Step 2" = "단계 2";
+"Step 3" = "단계 3";
+"Step 4" = "단계 4";
+"Step 5" = "단계 5";
+"Step 6" = "단계 6";
+"Step 7" = "단계 7";
+"Open the app, select the 'Application' you want to lock and 'open Shortcut' on the iPhone" = "앱을 열고 잠금할 '앱'을 선택하고 iPhone에서 '바로 가기 열기'";
+"Tap the 'Automation' button, then click 'Create personal automation'" = "'자동화' 버튼을 탭한 다음 '개인 자동화 생성'을 클릭하세요.";
+"Scroll down and tap 'App'. Tick 'Is Opened' and click 'Choose'" = "아래로 스크롤하여 '앱'을 탭하세요. '열린 상태'를 선택하고 '선택'을 클릭하세요.";
+"Select the app you want to lock, then click 'Done' and click 'Next', then click 'Add action'" = "잠금하려는 앱을 선택한 다음 '완료'를 클릭하고 '다음'을 클릭한 다음 '작업 추가'를 클릭하세요.";
+"Select 'Apps' and click 'AppLock' and click 'Lock'" = "'앱'을 선택하고 'AppLock'을 클릭한 다음 '잠금'을 클릭하세요.";
+"Click 'Select App' and select the application you want to lock" = "'앱 선택'을 클릭하고 잠금하려는 앱을 선택하세요.";
+"Then turn off 'Ask Before Running' and select 'Done'. You have successfully set up!" = "'실행 전 물어보기'를 끄고 '완료'를 선택하세요. 설정을 성공적으로 마쳤습니다!";
+//Popup
+"To perform app locking, you need to use App Shortcuts, click here for instructions" = "앱 잠금을 수행하려면 앱 바로 가기를 사용해야 합니다. 지침을 보려면 여기를 클릭하세요.";
+"Open shortcuts" = "바로 가기 열기";
+"Cancel" = "취소";
+"Unlock" = "잠금 해제";
+"Confirm unlocking?" = "잠금 해제 확인?";
+// PWview
+"Confirm new password" = "새 비밀번호 확인";
+"Current Password" = "현재 비밀번호";
+"New Password" = "새 비밀번호";
+"Request Password" = "비밀번호 요청";
+"TryAgainIn" = "다시 시도";
+"Enter password" = "비밀번호 입력";
+"Delete" = "삭제";
+// AlertChangePass
+"Password matches" = "비밀번호가 일치합니다";
+"Password has been changed successfully" = "비밀번호가 성공적으로 변경되었습니다";
+// mailComposeVC
+"Your email subject goes here" = "여기에 이메일 제목을 입력하세요";
+"Your email body goes here" = "여기에 이메일 본문을 입력하세요";
+"Error" = "오류";
+"Cannot send email on this device" = "이 기기에서 이메일을 보낼 수 없습니다";
+"Close" = "닫기";
+// 언어
+"Select your language" = "언어 선택";
+"de" = "독일어";
+"zh-Hans" = "간체 중국어";
+"en" = "영어";
+"es" = "스페인어";
+"it" = "이탈리아어";
+"vi" = "베트남어";
+"fr" = "프랑스어";
+"ja" = "일본어";
+"ko" = "한국어";
+"pl" = "폴란드어";
+"th" = "태국어";
+"pt-PT" = "포르투갈어 (유럽)";
+
+"Change security question" = "보안 질문 변경";
+"Please enter your answer!!!" = "답변을 입력하세요!!!";
+"Create New Password" = "새 비밀번호 생성";
+"SECURITY QUESTION" = "보안 질문";
+"What is your best friend's name?" = "가장 친한 친구의 이름은 무엇인가요?";
+"Security questions are used when you forget your password. You can change questions at any time!" = "비밀번호를 잊었을 때 보안 질문을 사용합니다. 언제든지 질문을 변경할 수 있습니다!";
+"Next" = "다음";
+"Change" = "변경";
+"Protect your Apps and your privacy" = "앱과 개인 정보를 보호하세요";
+
+"Give us 5 stars" = "5 별을 주세요";
+"Click to Unlock" = "클릭하여 잠금 해제";
+"RATE THIS APP" = "이 앱 평가하기";
+"Your feedback are the motivation to help our team develop better products." = "귀하의 의견은 우리 팀이 더 나은 제품을 개발하는 동기입니다.";
+"LATER" = "나중에";
+"RATE" = "평가";
+"You have not rated!" = "아직 평가하지 않았습니다!";

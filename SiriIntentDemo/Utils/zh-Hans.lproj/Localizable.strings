@@ -1,0 +1,88 @@
+"General" = "常规";
+"Choose apps to lock" = "选择要锁定的应用程序";
+"Instructions" = "使用说明";
+"Topics" = "主题";
+"Change password" = "更改密码";
+"Change language" = "更改语言";
+"Feedback" = "反馈";
+"Send feedback" = "发送反馈";
+"Share AppLock" = "分享AppLock";
+"Privacy Policy" = "隐私政策";
+"Search" = "搜索";
+"Click to lock" = "点击锁定";
+"Setting" = "设置";
+"Theme" = "主题";
+"Watch video tutorial" = "观看视频教程";
+// HD
+"Step 1" = "步骤1";
+"Step 2" = "步骤2";
+"Step 3" = "步骤3";
+"Step 4" = "步骤4";
+"Step 5" = "步骤5";
+"Step 6" = "步骤6";
+"Step 7" = "步骤7";
+"Open the app, select the 'Application' you want to lock and 'open Shortcut' on the iPhone" = "打开应用程序，选择您想要锁定的'应用程序'并在iPhone上'打开快捷方式'";
+"Tap the 'Automation' button, then click 'Create personal automation'" = "点击'自动化'按钮，然后点击'创建个人自动化'";
+"Scroll down and tap 'App'. Tick ​​'Is Opened' and click 'Choose'" = "向下滚动并点击'应用程序'。勾选'已打开'，然后点击'选择'";
+"Select the app you want to lock, then click 'Done' and click 'Next', then click 'Add action'" = "选择要锁定的应用程序，然后点击'完成'，然后点击'下一步'，然后点击'添加动作'";
+"Select 'Apps' and click 'AppLock' and click 'Lock'" = "选择'应用程序'，然后点击'AppLock'，然后点击'锁定'";
+"Click 'Select App' and select the application you want to lock" = "点击'选择应用程序'，然后选择要锁定的应用程序";
+"Then turn off 'Ask Before Running' and select 'Done'. You have successfully set up!" = "然后关闭'运行前询问'并选择'完成'。您已成功设置！";
+
+           
+//Popup
+"To perform app locking, you need to use App Shortcuts, click here for instructions" = "要执行应用程序锁定，您需要使用应用程序快捷方式，单击此处获取说明";
+"Open shortcuts" = "打开快捷方式";
+"Cancel" = "取消";
+"Unlock" = "解锁";
+"Confirm unlocking?" = "确认解锁？";
+// PWview
+"Confirm new password" = "确认新密码";
+"Current Password" = "当前密码";
+"New Password" = "新密码";
+"Request Password" = "请求密码";
+"TryAgainIn" = "稍后重试";
+"Enter password" = "输入密码";
+"Delete" = "删除";
+// AlertChangePass
+"Password matches" = "密码匹配";
+"Password has been changed successfully" = "密码已成功更改";
+// mailComposeVC
+
+"Your email subject goes here" = "您的电子邮件主题在此处";
+"Your email body goes here" = "您的电子邮件正文在此处";
+"Error" = "错误";
+"Cannot send email on this device" = "无法在此设备上发送电子邮件";
+"Close" = "关闭";
+// Ngôn ngữ
+"Select your language" = "选择您的语言";
+"de" = "德语";
+"zh-Hans" = "简体中文";
+"en" = "英语";
+"es" = "西班牙语";
+"it" = "意大利语";
+"vi" = "越南语";
+"fr" = "法语";
+"ja" = "日本语"; // Tiếng Nhật
+"ko" = "韩语"; // Tiếng Hàn
+"pl" = "波兰语"; // Tiếng Ba Lan
+"th" = "泰语"; // Tiếng Thái
+"pt-PT" = "葡萄牙语 (欧洲)"; // Tiếng Bồ Đào Nha (Châu Âu)
+
+"Change security question" = "更改安全问题";
+"Please enter your answer!!!" = "请输入您的答案!!!";
+"Create New Password" = "创建新密码";
+"SECURITY QUESTION" = "安全问题";
+"What is your best friend's name?" = "你最好的朋友叫什么名字？";
+"Security questions are used when you forget your password. You can change questions at any time!" = "安全问题用于在您忘记密码时使用。您可以随时更改问题！";
+"Next" = "下一步";
+"Change" = "更改";
+"Protect your Apps and your privacy" = "保护您的应用程序和隐私";
+
+"Give us 5 stars" = "给我们5星评价";
+"Click to Unlock" = "点击解锁";
+"RATE THIS APP" = "评价此应用";
+"Your feedback are the motivation to help our team develop better products." = "您的反馈是帮助我们团队开发更好产品的动力。";
+"LATER" = "稍后";
+"RATE" = "评价";
+"You have not rated!" = "您尚未评价！";

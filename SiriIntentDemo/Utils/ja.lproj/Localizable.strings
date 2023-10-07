@@ -1,0 +1,85 @@
+"General" = "一般";
+"Choose apps to lock" = "ロックするアプリを選択";
+"Instructions" = "指示";
+"Topics" = "トピック";
+"Change password" = "パスワードを変更";
+"Change language" = "言語を変更";
+"Feedback" = "フィードバック";
+"Send feedback" = "フィードバックを送信";
+"Share AppLock" = "AppLockを共有";
+"Privacy Policy" = "プライバシーポリシー";
+"Search" = "検索";
+"Click to lock" = "クリックしてロック";
+"Setting" = "設定";
+"Theme" = "テーマ";
+"Watch video tutorial" = "ビデオチュートリアルを視聴";
+// HD
+"Step 1" = "ステップ1";
+"Step 2" = "ステップ2";
+"Step 3" = "ステップ3";
+"Step 4" = "ステップ4";
+"Step 5" = "ステップ5";
+"Step 6" = "ステップ6";
+"Step 7" = "ステップ7";
+"Open the app, select the 'Application' you want to lock and 'open Shortcut' on the iPhone" = "アプリを開き、ロックしたい「アプリケーション」を選択し、iPhone上で「ショートカットを開く」";
+"Tap the 'Automation' button, then click 'Create personal automation'" = "「自動化」ボタンをタップし、「個人用自動化の作成」をクリックします";
+"Scroll down and tap 'App'. Tick 'Is Opened' and click 'Choose'" = "下にスクロールし、「アプリ」をタップします。 '開いている'にチェックを入れ、「選択」をクリックします";
+"Select the app you want to lock, then click 'Done' and click 'Next', then click 'Add action'" = "ロックしたいアプリを選択し、「完了」をクリックし、「次へ」をクリックし、「アクションを追加」をクリックします";
+"Select 'Apps' and click 'AppLock' and click 'Lock'" = "「アプリ」を選択し、「AppLock」をクリックし、「ロック」をクリックします";
+"Click 'Select App' and select the application you want to lock" = "「アプリを選択」をクリックし、ロックしたいアプリを選択します";
+"Then turn off 'Ask Before Running' and select 'Done'. You have successfully set up!" = "「実行前に確認」をオフにし、「完了」を選択します。設定が正常に完了しました！";
+//Popup
+"To perform app locking, you need to use App Shortcuts, click here for instructions" = "アプリのロックを実行するには、アプリショートカットを使用する必要があります。手順についてはこちらをクリックしてください";
+"Open shortcuts" = "ショートカットを開く";
+"Cancel" = "キャンセル";
+"Unlock" = "ロック解除";
+"Confirm unlocking?" = "ロック解除の確認？";
+// PWview
+"Confirm new password" = "新しいパスワードを確認";
+"Current Password" = "現在のパスワード";
+"New Password" = "新しいパスワード";
+"Request Password" = "パスワードをリクエスト";
+"TryAgainIn" = "後で再試行";
+"Enter password" = "パスワードを入力";
+"Delete" = "削除";
+// AlertChangePass
+"Password matches" = "パスワードが一致します";
+"Password has been changed successfully" = "パスワードは正常に変更されました";
+// mailComposeVC
+"Your email subject goes here" = "メールの件名がここに表示されます";
+"Your email body goes here" = "メールの本文がここに表示されます";
+"Error" = "エラー";
+"Cannot send email on this device" = "このデバイスでメールを送信できません";
+"Close" = "閉じる";
+// Ngôn ngữ
+"Select your language" = "言語を選択してください";
+"de" = "ドイツ語";
+"zh-Hans" = "簡体字中国語";
+"en" = "英語";
+"es" = "スペイン語";
+"it" = "イタリア語";
+"vi" = "ベトナム語";
+"fr" = "フランス語";
+"ja" = "日本語";
+"ko" = "韓国語";
+"pl" = "ポーランド語";
+"th" = "タイ語";
+"pt-PT" = "ポルトガル語（ヨーロッパ）";
+
+"Change security question" = "セキュリティ質問を変更";
+"Please enter your answer!!!" = "お答えを入力してください!!!";
+"Create New Password" = "新しいパスワードを作成";
+"SECURITY QUESTION" = "セキュリティ質問";
+"What is your best friend's name?" = "あなたの一番の友達の名前は何ですか？";
+"Security questions are used when you forget your password. You can change questions at any time!" = "パスワードを忘れたときにセキュリティ質問が使用されます。いつでも質問を変更できます！";
+"Next" = "次へ";
+"Change" = "変更";
+"Protect your Apps and your privacy" = "アプリとプライバシーを保護";
+
+"Give us 5 stars" = "5つ星をお願いします";
+"Click to Unlock" = "クリックしてロックを解除";
+"RATE THIS APP" = "このアプリを評価する";
+"Your feedback are the motivation to help our team develop better products." = "あなたのフィードバックは、より良い製品を開発するための動機となります。";
+"LATER" = "後で";
+"RATE" = "評価";
+"You have not rated!" = "まだ評価していません！";

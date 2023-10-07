@@ -1,0 +1,13 @@
+//Language
+"de" = "German";
+"zh-Hans" = "Simplified Chinese";
+ "en" = "English";
+ "es" = "Spanish";
+ "it" = "Italian";
+ "vi" = "Vietnamese";
+ "fr" = "French";
+"ja" = "Japanese";
+"ko" = "Korean";
+"pl" = "Polish";
+"th" = "Thai";
+"pt-PT" = "Portuguese";
