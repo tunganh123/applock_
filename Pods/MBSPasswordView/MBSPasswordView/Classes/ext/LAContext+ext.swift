@@ -15,15 +15,15 @@ extension LAContext {
         case touchID
         case faceID
     }
-    
+
     var biometricType: BiometricType {
         var error: NSError?
-        
+
         guard self.canEvaluatePolicy(.deviceOwnerAuthenticationWithBiometrics, error: &error) else {
             // Capture these recoverable error thru Crashlytics
             return .none
         }
-        
+
         if #available(iOS 11.0, *) {
             switch self.biometryType {
             case .none:
@@ -32,9 +32,11 @@ extension LAContext {
                 return .touchID
             case .faceID:
                 return .faceID
+            case .opticID:
+                return .none
             }
         } else {
-            return  self.canEvaluatePolicy(.deviceOwnerAuthenticationWithBiometrics, error: nil) ? .touchID : .none
+            return self.canEvaluatePolicy(.deviceOwnerAuthenticationWithBiometrics, error: nil) ? .touchID : .none
         }
     }
 }

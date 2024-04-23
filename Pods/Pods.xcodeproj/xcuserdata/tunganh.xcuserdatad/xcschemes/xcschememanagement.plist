@@ -81,11 +81,6 @@
 			<key>orderHint</key>
 			<integer>12</integer>
 		</dict>
-		<key>SwiftyRate.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>13</integer>
-		</dict>
 		<key>lottie-ios.xcscheme</key>
 		<dict>
 			<key>isShown</key>

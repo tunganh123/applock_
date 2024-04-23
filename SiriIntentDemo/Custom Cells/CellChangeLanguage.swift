@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+ 
 class CellChangeLanguage: UITableViewCell {
     @IBOutlet var img1: UIImageView!
     @IBOutlet var lb: UILabel!

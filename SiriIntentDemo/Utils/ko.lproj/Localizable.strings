@@ -54,7 +54,8 @@
 // 언어
 "Select your language" = "언어 선택";
 "de" = "독일어";
-"zh-Hans" = "간체 중국어";
+"zh-Hans" = "중국어 (간체)";
+"zh-Hant" = "중국어 (번체)";
 "en" = "영어";
 "es" = "스페인어";
 "it" = "이탈리아어";
@@ -83,3 +84,13 @@
 "LATER" = "나중에";
 "RATE" = "평가";
 "You have not rated!" = "아직 평가하지 않았습니다!";
+
+"Ad Setting" = "광고 설정";
+"Allow interest-based ads and data collection for targeted advertising purposes?" = "관심 기반 광고 및 타겟 광고 목적을 위한 데이터 수집 허용?";
+"By enabling this option, you consent to the collection of information about your preferences, online activities, and interactions with ads. This data will be used to tailor advertisements specifically to your interests and deliver a more personalized advertising experience." = "이 옵션을 활성화하면 귀하의 선호도, 온라인 활동 및 광고 상호 작용에 대한 정보 수집에 동의하는 것입니다. 이 데이터는 귀하의 관심에 맞게 광고를 맞추고 더 개인화된 광고 경험을 제공하는 데 사용됩니다.";
+"Understood" = "이해했습니다";
+
+
+
+
+

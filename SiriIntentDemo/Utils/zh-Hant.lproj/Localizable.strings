@@ -1,0 +1,101 @@
+//Language
+"General" = "一般";
+"Choose apps to lock" = "選擇要鎖定的應用程式";
+"Instructions" = "說明";
+"Topics" = "主題";
+"Change password" = "更改密碼";
+"Change language" = "更改語言";
+"Feedback" = "回饋";
+"Send feedback" = "發送回饋";
+"Share AppLock" = "分享 AppLock";
+"Privacy Policy" = "隱私政策";
+"Search" = "搜尋";
+"Click to lock" = "點擊以鎖定";
+"Setting" = "設置";
+"Theme" = "主題";
+"Watch video tutorial" = "觀看視頻教程";
+// HD
+"Step 1" = "步驟 1";
+"Step 2" = "步驟 2";
+"Step 3" = "步驟 3";
+"Step 4" = "步驟 4";
+"Step 5" = "步驟 5";
+"Step 6" = "步驟 6";
+"Step 7" = "步驟 7";
+"Open the app, select the 'Application' you want to lock and 'open Shortcut' on the iPhone" = "打開應用程式，選擇您想要鎖定的“應用程式”，然後在 iPhone 上“打開快捷方式”";
+"Tap the 'Automation' button, then click 'Create personal automation'" = "點擊“自動化”按鈕，然後點擊“創建個人自動化”";
+"Scroll down and tap 'App'. Tick ​​'Is Opened' and click 'Choose'" = "向下滾動並點擊“應用程式”。選中“已打開”，然後點擊“選擇”";
+"Select the app you want to lock, then click 'Done' and click 'Next', then click 'Add action'" = "選擇您要鎖定的應用程式，然後點擊“完成”並點擊“下一步”，然後點擊“添加動作”";
+"Select 'Apps' and click 'AppLock' and click 'Lock'" = "選擇“應用程式”，然後點擊“AppLock”並點擊“鎖定”";
+"Click 'Select App' and select the application you want to lock" = "點擊“選擇應用程式”，然後選擇要鎖定的應用程式";
+"Then turn off 'Ask Before Running' and select 'Done'. You have successfully set up!" = "然後關閉“執行前請確認”並選擇“完成”。您已成功設置！";
+
+//Popup
+"To perform app locking, you need to use App Shortcuts, click here for instructions" = "要執行應用程式鎖定，您需要使用應用程式快捷方式，請點擊此處查看說明";
+"Open shortcuts" = "打開快捷方式";
+"Cancel" = "取消";
+"Unlock" = "解鎖";
+"Confirm unlocking?" = "確認解鎖？";
+// PWview
+"Confirm new password" = "確認新密碼";
+"Current Password" = "當前密碼";
+"New Password" = "新密碼";
+"Request Password" = "要求密碼";
+"TryAgainIn" = "在試一次";
+"Enter password" = "輸入密碼";
+"Delete" = "刪除";
+// AlertChangePass
+"Password matches" = "密碼匹配";
+"Password has been changed successfully" = "密碼已成功更改";
+// mailComposeVC
+
+"Your email subject goes here" = "您的電子郵件主題在這裡";
+"Your email body goes here" = "您的電子郵件正文在這裡";
+"Error" = "錯誤";
+"Cannot send email on this device" = "無法在此設備上發送電子郵件";
+"Close" = "關閉";
+// Ngôn ngữ
+"Select your language" = "選擇您的語言";
+"de" = "德語";
+"zh-Hans" = "中文（简体）";
+"zh-Hant" = "中文（繁體）";
+"en" = "英語";
+"es" = "西班牙語";
+"it" = "意大利語";
+"vi" = "越南語";
+"fr" = "法語";
+"ja" = "日語";
+"ko" = "韓語";
+"pl" = "波蘭語";
+"th" = "泰語";
+"pt-PT" = "葡萄牙語（葡萄牙）";
+
+"Change security question" = "更改安全問題";
+"Please enter your answer!!!" = "請輸入您的答案！！！";
+"Create New Password" = "創建新密碼";
+"SECURITY QUESTION" = "安全問題";
+"What is your best friend's name?" = "您最好的朋友是誰？";
+"Security questions are used when you forget your password. You can change questions at any time!" = "忘記密碼時將使用安全問題。您可以隨時更改問題！";
+"Next" = "下一個";
+"Change" = "更改";
+"Protect your Apps and your privacy" = "保護您的應用程式和您的隱私";
+
+"Give us 5 stars" = "給我們 5 星評分";
+"Click to Unlock" = "點擊以解鎖";
+"RATE THIS APP" = "評價此應用程式";
+"Your feedback are the motivation to help our team develop better products." = "您的反饋是幫助我們團隊開發更好產品的動力。";
+"LATER" = "稍後";
+"RATE" = "評價";
+"You have not rated!" = "您尚未評分！";
+"The application uses tracking data to provide personalized advertising." = "該應用程式使用追踪數據提供個性化廣告。";
+
+"Ad Setting" = "廣告設置";
+"Allow interest-based ads and data collection for targeted advertising purposes?" = "允許基於興趣的廣告和數據收集以進行定向廣告？";
+"By enabling this option, you consent to the collection of information about your preferences, online activities, and interactions with ads. This data will be used to tailor advertisements specifically to your interests and deliver a more personalized advertising experience." = "啟用此選項即表示您同意收集有關您的偏好、在線活動和與廣告的互動的信息。這些數據將用於將廣告定制為您的特定興趣，並提供更個性化的廣告體驗。";
+"Understood" = "明白了";
+
+
+
+
+
+

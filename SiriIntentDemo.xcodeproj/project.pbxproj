@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 51;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -17,6 +17,16 @@
 		7A6DFD362539C426005992C6 /* Intent.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = 7A6DFD352539C426005992C6 /* Intent.intentdefinition */; };
 		7A6DFD372539C426005992C6 /* Intent.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = 7A6DFD352539C426005992C6 /* Intent.intentdefinition */; };
 		7D04B2252AB06B3300FCAF71 /* GradientBackgroundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D04B2242AB06B3300FCAF71 /* GradientBackgroundViewController.swift */; };
+		7D0F82E62B95A4EF00CCACAE /* Change_Language + tableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D0F82E52B95A4EF00CCACAE /* Change_Language + tableView.swift */; };
+		7D0F82E82B95A4FD00CCACAE /* Change_Language+setup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D0F82E72B95A4FD00CCACAE /* Change_Language+setup.swift */; };
+		7D0F82EA2B95A5C200CCACAE /* Change_Language+ADS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D0F82E92B95A5C200CCACAE /* Change_Language+ADS.swift */; };
+		7D0F82ED2B95A65600CCACAE /* ViewHome+TBview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D0F82EC2B95A65600CCACAE /* ViewHome+TBview.swift */; };
+		7D0F82EF2B95A66400CCACAE /* ViewHome+setup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D0F82EE2B95A66400CCACAE /* ViewHome+setup.swift */; };
+		7D0F82F12B95A69000CCACAE /* ViewHome+Searchbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D0F82F02B95A69000CCACAE /* ViewHome+Searchbar.swift */; };
+		7D0F82F32B95A6A000CCACAE /* ViewHome+ADS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D0F82F22B95A6A000CCACAE /* ViewHome+ADS.swift */; };
+		7D0F82F52B95A7AA00CCACAE /* ViewHome+Tap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D0F82F42B95A7AA00CCACAE /* ViewHome+Tap.swift */; };
+		7D0F82F72B95A94200CCACAE /* ViewHome+func.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D0F82F62B95A94200CCACAE /* ViewHome+func.swift */; };
+		7D190DA52B9970380050972F /* AppTrackingTransparency.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7D190DA42B9970380050972F /* AppTrackingTransparency.framework */; };
 		7D1D30BB2AA9BFE900FE3DE0 /* PopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D1D30B92AA9BFE900FE3DE0 /* PopupViewController.swift */; };
 		7D1D30BC2AA9BFE900FE3DE0 /* PopupViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7D1D30BA2AA9BFE900FE3DE0 /* PopupViewController.xib */; };
 		7D1D30BF2AA9D81700FE3DE0 /* PopupUnlock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D1D30BD2AA9D81700FE3DE0 /* PopupUnlock.swift */; };
@@ -37,13 +47,12 @@
 		7D480F992ACE9C0B0084C84B /* SendMail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D480F982ACE9C0B0084C84B /* SendMail.swift */; };
 		7D480F9B2ACEAA620084C84B /* UIViewController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D480F9A2ACEAA620084C84B /* UIViewController+Extensions.swift */; };
 		7D54B38F2AC125DD006EABF3 /* AdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D54B38E2AC125DD006EABF3 /* AdView.swift */; };
-		7D6CE6232AC564C300CDFF9F /* AdsChangeLanguage.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7D6CE6222AC564C300CDFF9F /* AdsChangeLanguage.xib */; };
 		7D789C192AB98ABF007FD985 /* ChangeLanguage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D789C182AB98ABF007FD985 /* ChangeLanguage.swift */; };
 		7D789C1C2AB98F5B007FD985 /* CellChangeLanguage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D789C1A2AB98F5B007FD985 /* CellChangeLanguage.swift */; };
 		7D789C1D2AB98F5B007FD985 /* CellChangeLanguage.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7D789C1B2AB98F5B007FD985 /* CellChangeLanguage.xib */; };
 		7D7F7B112AAABF9500234AA8 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7F7B102AAABF9500234AA8 /* Item.swift */; };
 		7D92EA952AA715E600576D09 /* lockscreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D92EA942AA715E600576D09 /* lockscreenViewController.swift */; };
-		7D92EA992AA7318F00576D09 /* SecureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D92EA982AA7318F00576D09 /* SecureViewController.swift */; };
+		7D92EA992AA7318F00576D09 /* InstructViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D92EA982AA7318F00576D09 /* InstructViewController.swift */; };
 		7D9660B22AAEBCDC0024F05D /* Setting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D9660B12AAEBCDC0024F05D /* Setting.swift */; };
 		7D9660CF2AAF0AB80024F05D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D9660CE2AAF0AB80024F05D /* Main.storyboard */; };
 		7D9660D92AAF128D0024F05D /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7D9660DB2AAF128D0024F05D /* Localizable.strings */; };
@@ -52,12 +61,28 @@
 		7DA101AD2AD0F9FE0066DD26 /* IntentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA101AC2AD0F9FE0066DD26 /* IntentViewController.swift */; };
 		7DA101AF2AD0FB2C0066DD26 /* IntentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA101AE2AD0FB2C0066DD26 /* IntentViewModel.swift */; };
 		7DA101B32AD1082C0066DD26 /* CheckPassViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA101B22AD1082C0066DD26 /* CheckPassViewModel.swift */; };
+		7DA101B62AD1494C0066DD26 /* ChangePassViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA101B52AD1494C0066DD26 /* ChangePassViewModel.swift */; };
+		7DA101BA2AD14B5C0066DD26 /* InstrucView+TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA101B92AD14B5C0066DD26 /* InstrucView+TableView.swift */; };
+		7DA101BC2AD164520066DD26 /* InstructViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA101BB2AD164520066DD26 /* InstructViewModel.swift */; };
+		7DA101BF2AD167CA0066DD26 /* Setting + TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA101BE2AD167CA0066DD26 /* Setting + TableView.swift */; };
+		7DA101C12AD1691B0066DD26 /* SettingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA101C02AD1691B0066DD26 /* SettingViewModel.swift */; };
+		7DA6BB3E2B9EAB0B00762567 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DA6BB3D2B9EAB0B00762567 /* LaunchScreen.storyboard */; };
 		7DB06F832ABBDA7600B1074C /* animation_lmsiuffa.json in Resources */ = {isa = PBXBuildFile; fileRef = 7DB06F822ABBDA7600B1074C /* animation_lmsiuffa.json */; };
 		7DB06F8B2ABBE1BA00B1074C /* LaunchScreenFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB06F8A2ABBE1BA00B1074C /* LaunchScreenFile.swift */; };
-		7DBB6D632AC3C17500F7071A /* GADNativeAdView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7DBB6D622AC3C17500F7071A /* GADNativeAdView.xib */; };
-		7DBB6D692AC4389B00F7071A /* AppOpenAdManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DBB6D682AC4389B00F7071A /* AppOpenAdManager.swift */; };
+		7DBB6D692AC4389B00F7071A /* AppOpenAdManagerr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DBB6D682AC4389B00F7071A /* AppOpenAdManagerr.swift */; };
 		7DD00A412ACFE38500871089 /* ThemeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DD00A402ACFE38500871089 /* ThemeViewModel.swift */; };
 		7DD00A432ACFEA4A00871089 /* ThemeController+CollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DD00A422ACFEA4A00871089 /* ThemeController+CollectionView.swift */; };
+		7DE1243B2B905BDF004F6422 /* GADNativeAdView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7DE1243A2B905BDF004F6422 /* GADNativeAdView.xib */; };
+		7DE124432B906C24004F6422 /* AdsChangeLanguage.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7DE124422B906C24004F6422 /* AdsChangeLanguage.xib */; };
+		7DE124502B908416004F6422 /* ViewCheckPermission.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DE1244B2B908416004F6422 /* ViewCheckPermission.swift */; };
+		7DE124512B908416004F6422 /* ViewCheckPermission+Collectiomn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DE1244C2B908416004F6422 /* ViewCheckPermission+Collectiomn.swift */; };
+		7DE124522B908416004F6422 /* ViewPermission+func.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DE1244D2B908416004F6422 /* ViewPermission+func.swift */; };
+		7DE124542B90872B004F6422 /* UIView + extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DE124532B90872B004F6422 /* UIView + extension.swift */; };
+		7DE124572B90888C004F6422 /* CellCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DE124562B90888C004F6422 /* CellCollection.swift */; };
+		7DE1245B2B908B24004F6422 /* AppData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DE124592B908B24004F6422 /* AppData.swift */; };
+		7DE1245C2B908B24004F6422 /* AppColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DE1245A2B908B24004F6422 /* AppColor.swift */; };
+		7DE124602B908CFE004F6422 /* GoogleMobileAdsConsentManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DE1245E2B908CFE004F6422 /* GoogleMobileAdsConsentManager.swift */; };
+		7DE124612B908CFE004F6422 /* AppOpenAdManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DE1245F2B908CFE004F6422 /* AppOpenAdManager.swift */; };
 		7DF29E492AB176AC0067A1A0 /* HdCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF29E472AB176AC0067A1A0 /* HdCell.swift */; };
 		7DF29E4A2AB176AC0067A1A0 /* HdCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7DF29E482AB176AC0067A1A0 /* HdCell.xib */; };
 		7DF4F25E2AB343C200214432 /* CheckPass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF4F25D2AB343C200214432 /* CheckPass.swift */; };
@@ -110,7 +135,16 @@
 		7A6DFD352539C426005992C6 /* Intent.intentdefinition */ = {isa = PBXFileReference; lastKnownFileType = file.intentdefinition; path = Intent.intentdefinition; sourceTree = "<group>"; };
 		7D04B2242AB06B3300FCAF71 /* GradientBackgroundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBackgroundViewController.swift; sourceTree = "<group>"; };
 		7D0BA88D2A9D8F76007050CD /* SiriIntent.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SiriIntent.entitlements; sourceTree = "<group>"; };
-		7D0BA88E2A9D938C007050CD /* SiriIntentDemo.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SiriIntentDemo.entitlements; sourceTree = "<group>"; };
+		7D0F82E52B95A4EF00CCACAE /* Change_Language + tableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Change_Language + tableView.swift"; sourceTree = "<group>"; };
+		7D0F82E72B95A4FD00CCACAE /* Change_Language+setup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Change_Language+setup.swift"; sourceTree = "<group>"; };
+		7D0F82E92B95A5C200CCACAE /* Change_Language+ADS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Change_Language+ADS.swift"; sourceTree = "<group>"; };
+		7D0F82EC2B95A65600CCACAE /* ViewHome+TBview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewHome+TBview.swift"; sourceTree = "<group>"; };
+		7D0F82EE2B95A66400CCACAE /* ViewHome+setup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewHome+setup.swift"; sourceTree = "<group>"; };
+		7D0F82F02B95A69000CCACAE /* ViewHome+Searchbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewHome+Searchbar.swift"; sourceTree = "<group>"; };
+		7D0F82F22B95A6A000CCACAE /* ViewHome+ADS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewHome+ADS.swift"; sourceTree = "<group>"; };
+		7D0F82F42B95A7AA00CCACAE /* ViewHome+Tap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewHome+Tap.swift"; sourceTree = "<group>"; };
+		7D0F82F62B95A94200CCACAE /* ViewHome+func.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewHome+func.swift"; sourceTree = "<group>"; };
+		7D190DA42B9970380050972F /* AppTrackingTransparency.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppTrackingTransparency.framework; path = System/Library/Frameworks/AppTrackingTransparency.framework; sourceTree = SDKROOT; };
 		7D1D30B92AA9BFE900FE3DE0 /* PopupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopupViewController.swift; sourceTree = "<group>"; };
 		7D1D30BA2AA9BFE900FE3DE0 /* PopupViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PopupViewController.xib; sourceTree = "<group>"; };
 		7D1D30BD2AA9D81700FE3DE0 /* PopupUnlock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopupUnlock.swift; sourceTree = "<group>"; };
@@ -130,8 +164,9 @@
 		7D480F962ACE671B0084C84B /* RatingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingController.swift; sourceTree = "<group>"; };
 		7D480F982ACE9C0B0084C84B /* SendMail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendMail.swift; sourceTree = "<group>"; };
 		7D480F9A2ACEAA620084C84B /* UIViewController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extensions.swift"; sourceTree = "<group>"; };
+		7D4A42712BC66DD5001AAC37 /* Intents.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Intents.framework; path = System/Library/Frameworks/Intents.framework; sourceTree = SDKROOT; };
+		7D4A427C2BC66DD6001AAC37 /* IntentsUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IntentsUI.framework; path = System/Library/Frameworks/IntentsUI.framework; sourceTree = SDKROOT; };
 		7D54B38E2AC125DD006EABF3 /* AdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdView.swift; sourceTree = "<group>"; };
-		7D6CE6222AC564C300CDFF9F /* AdsChangeLanguage.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AdsChangeLanguage.xib; sourceTree = "<group>"; };
 		7D6E24AF2AB6B8B000D0E7F8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		7D789C182AB98ABF007FD985 /* ChangeLanguage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeLanguage.swift; sourceTree = "<group>"; };
 		7D789C1A2AB98F5B007FD985 /* CellChangeLanguage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellChangeLanguage.swift; sourceTree = "<group>"; };
@@ -143,7 +178,7 @@
 		7D789C222AB9ADF0007FD985 /* th */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/Localizable.strings; sourceTree = "<group>"; };
 		7D7F7B102AAABF9500234AA8 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		7D92EA942AA715E600576D09 /* lockscreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lockscreenViewController.swift; sourceTree = "<group>"; };
-		7D92EA982AA7318F00576D09 /* SecureViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecureViewController.swift; sourceTree = "<group>"; };
+		7D92EA982AA7318F00576D09 /* InstructViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructViewController.swift; sourceTree = "<group>"; };
 		7D9660B12AAEBCDC0024F05D /* Setting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Setting.swift; sourceTree = "<group>"; };
 		7D9660CE2AAF0AB80024F05D /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		7D9660DA2AAF128D0024F05D /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -153,16 +188,34 @@
 		7DA101AC2AD0F9FE0066DD26 /* IntentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IntentViewController.swift; sourceTree = "<group>"; };
 		7DA101AE2AD0FB2C0066DD26 /* IntentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntentViewModel.swift; sourceTree = "<group>"; };
 		7DA101B22AD1082C0066DD26 /* CheckPassViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckPassViewModel.swift; sourceTree = "<group>"; };
+		7DA101B52AD1494C0066DD26 /* ChangePassViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangePassViewModel.swift; sourceTree = "<group>"; };
+		7DA101B92AD14B5C0066DD26 /* InstrucView+TableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "InstrucView+TableView.swift"; sourceTree = "<group>"; };
+		7DA101BB2AD164520066DD26 /* InstructViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructViewModel.swift; sourceTree = "<group>"; };
+		7DA101BE2AD167CA0066DD26 /* Setting + TableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Setting + TableView.swift"; sourceTree = "<group>"; };
+		7DA101C02AD1691B0066DD26 /* SettingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewModel.swift; sourceTree = "<group>"; };
+		7DA6BB3D2B9EAB0B00762567 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7DB06F822ABBDA7600B1074C /* animation_lmsiuffa.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = animation_lmsiuffa.json; sourceTree = "<group>"; };
 		7DB06F8A2ABBE1BA00B1074C /* LaunchScreenFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchScreenFile.swift; sourceTree = "<group>"; };
-		7DBB6D622AC3C17500F7071A /* GADNativeAdView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GADNativeAdView.xib; sourceTree = "<group>"; };
-		7DBB6D682AC4389B00F7071A /* AppOpenAdManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppOpenAdManager.swift; sourceTree = "<group>"; };
+		7DBB6D682AC4389B00F7071A /* AppOpenAdManagerr.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppOpenAdManagerr.swift; sourceTree = "<group>"; };
 		7DD00A402ACFE38500871089 /* ThemeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeViewModel.swift; sourceTree = "<group>"; };
 		7DD00A422ACFEA4A00871089 /* ThemeController+CollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ThemeController+CollectionView.swift"; sourceTree = "<group>"; };
+		7DD957272AE571C9005EC9A3 /* SiriIntentDemo.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.entitlements; name = SiriIntentDemo.entitlements; path = SiriIntentDemo/SiriIntentDemo.entitlements; sourceTree = SOURCE_ROOT; };
 		7DDC883B2AB840FE00B72316 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		7DDC883C2AB8412A00B72316 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
 		7DDC883D2AB841BE00B72316 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
 		7DDC883E2AB841D700B72316 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
+		7DE1243A2B905BDF004F6422 /* GADNativeAdView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GADNativeAdView.xib; sourceTree = "<group>"; };
+		7DE124422B906C24004F6422 /* AdsChangeLanguage.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AdsChangeLanguage.xib; sourceTree = "<group>"; };
+		7DE1244B2B908416004F6422 /* ViewCheckPermission.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewCheckPermission.swift; sourceTree = "<group>"; };
+		7DE1244C2B908416004F6422 /* ViewCheckPermission+Collectiomn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ViewCheckPermission+Collectiomn.swift"; sourceTree = "<group>"; };
+		7DE1244D2B908416004F6422 /* ViewPermission+func.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ViewPermission+func.swift"; sourceTree = "<group>"; };
+		7DE124532B90872B004F6422 /* UIView + extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView + extension.swift"; sourceTree = "<group>"; };
+		7DE124562B90888C004F6422 /* CellCollection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CellCollection.swift; sourceTree = "<group>"; };
+		7DE124592B908B24004F6422 /* AppData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppData.swift; sourceTree = "<group>"; };
+		7DE1245A2B908B24004F6422 /* AppColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppColor.swift; sourceTree = "<group>"; };
+		7DE1245E2B908CFE004F6422 /* GoogleMobileAdsConsentManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GoogleMobileAdsConsentManager.swift; sourceTree = "<group>"; };
+		7DE1245F2B908CFE004F6422 /* AppOpenAdManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppOpenAdManager.swift; sourceTree = "<group>"; };
+		7DE9900E2B91699900828B34 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		7DF29E472AB176AC0067A1A0 /* HdCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HdCell.swift; sourceTree = "<group>"; };
 		7DF29E482AB176AC0067A1A0 /* HdCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HdCell.xib; sourceTree = "<group>"; };
 		7DF4F25D2AB343C200214432 /* CheckPass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckPass.swift; sourceTree = "<group>"; };
@@ -183,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				35EBD939BED878B8E5BA4E09 /* Pods_AppLock.framework in Frameworks */,
+				7D190DA52B9970380050972F /* AppTrackingTransparency.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -200,8 +254,11 @@
 		529DE332485DDBB596816B35 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				7D190DA42B9970380050972F /* AppTrackingTransparency.framework */,
 				AD27C8D91A730795AA590AB9 /* Pods_SiriIntent.framework */,
 				A8C707ABFE96B8B87131AD60 /* Pods_AppLock.framework */,
+				7D4A42712BC66DD5001AAC37 /* Intents.framework */,
+				7D4A427C2BC66DD6001AAC37 /* IntentsUI.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -229,6 +286,9 @@
 		7A6DFD092539C374005992C6 /* SiriIntentDemo */ = {
 			isa = PBXGroup;
 			children = (
+				7DA6BB3D2B9EAB0B00762567 /* LaunchScreen.storyboard */,
+				7DE124582B908B24004F6422 /* Constants */,
+				7DCF28E32AE56FBF00F046BB /* Support Files */,
 				7D3C07CF2ACD0DF7005F2CD1 /* Base */,
 				7D3C07CD2ACD0D3B005F2CD1 /* ClassManager */,
 				7D3C07C92ACD0C4E005F2CD1 /* Componends */,
@@ -239,11 +299,10 @@
 				7D3C07B62ACD002A005F2CD1 /* Models */,
 				7D3C07B52ACD0020005F2CD1 /* Utils */,
 				7D3C07B42ACD000E005F2CD1 /* Extensions */,
-				7D0BA88E2A9D938C007050CD /* SiriIntentDemo.entitlements */,
 				7A6DFD0A2539C374005992C6 /* AppDelegate.swift */,
+				7DD957272AE571C9005EC9A3 /* SiriIntentDemo.entitlements */,
 				7D9660CE2AAF0AB80024F05D /* Main.storyboard */,
 				7A6DFD132539C377005992C6 /* Assets.xcassets */,
-				7A6DFD182539C377005992C6 /* Info.plist */,
 			);
 			path = SiriIntentDemo;
 			sourceTree = "<group>";
@@ -260,6 +319,31 @@
 			path = SiriIntent;
 			sourceTree = "<group>";
 		};
+		7D0F82E42B95A4BB00CCACAE /* View_Change_Language */ = {
+			isa = PBXGroup;
+			children = (
+				7D789C182AB98ABF007FD985 /* ChangeLanguage.swift */,
+				7D0F82E52B95A4EF00CCACAE /* Change_Language + tableView.swift */,
+				7D0F82E72B95A4FD00CCACAE /* Change_Language+setup.swift */,
+				7D0F82E92B95A5C200CCACAE /* Change_Language+ADS.swift */,
+			);
+			path = View_Change_Language;
+			sourceTree = "<group>";
+		};
+		7D0F82EB2B95A63D00CCACAE /* ViewHome */ = {
+			isa = PBXGroup;
+			children = (
+				7D92EA942AA715E600576D09 /* lockscreenViewController.swift */,
+				7D0F82EC2B95A65600CCACAE /* ViewHome+TBview.swift */,
+				7D0F82EE2B95A66400CCACAE /* ViewHome+setup.swift */,
+				7D0F82F02B95A69000CCACAE /* ViewHome+Searchbar.swift */,
+				7D0F82F22B95A6A000CCACAE /* ViewHome+ADS.swift */,
+				7D0F82F42B95A7AA00CCACAE /* ViewHome+Tap.swift */,
+				7D0F82F62B95A94200CCACAE /* ViewHome+func.swift */,
+			);
+			path = ViewHome;
+			sourceTree = "<group>";
+		};
 		7D3C07B42ACD000E005F2CD1 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
@@ -268,6 +352,7 @@
 				7D3C07C22ACD0341005F2CD1 /* Color+Extensions.swift */,
 				7D3C07C42ACD034F005F2CD1 /* Font+Extensions.swift */,
 				7D480F9A2ACEAA620084C84B /* UIViewController+Extensions.swift */,
+				7DE124532B90872B004F6422 /* UIView + extension.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -298,7 +383,10 @@
 			children = (
 				7DD00A402ACFE38500871089 /* ThemeViewModel.swift */,
 				7DA101AE2AD0FB2C0066DD26 /* IntentViewModel.swift */,
+				7DA101B52AD1494C0066DD26 /* ChangePassViewModel.swift */,
 				7DA101B22AD1082C0066DD26 /* CheckPassViewModel.swift */,
+				7DA101BB2AD164520066DD26 /* InstructViewModel.swift */,
+				7DA101C02AD1691B0066DD26 /* SettingViewModel.swift */,
 			);
 			path = "View Models";
 			sourceTree = "<group>";
@@ -306,6 +394,7 @@
 		7D3C07B82ACD0049005F2CD1 /* Custom Cells */ = {
 			isa = PBXGroup;
 			children = (
+				7DE124552B90888C004F6422 /* Cell_Collection */,
 				7DF29E472AB176AC0067A1A0 /* HdCell.swift */,
 				7DF29E482AB176AC0067A1A0 /* HdCell.xib */,
 				7DFA04FD2AB40D7500EFEA53 /* CollectionCell.swift */,
@@ -320,12 +409,6 @@
 		7D3C07B92ACD0052005F2CD1 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				7D92EA942AA715E600576D09 /* lockscreenViewController.swift */,
-				7D92EA982AA7318F00576D09 /* SecureViewController.swift */,
-				7D3D1EF02AAC2A1200326B51 /* ChangePass.swift */,
-				7D9660B12AAEBCDC0024F05D /* Setting.swift */,
-				7DF4F25D2AB343C200214432 /* CheckPass.swift */,
-				7D789C182AB98ABF007FD985 /* ChangeLanguage.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -333,6 +416,13 @@
 		7D3C07C82ACD0BC3005F2CD1 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				7D0F82EB2B95A63D00CCACAE /* ViewHome */,
+				7D0F82E42B95A4BB00CCACAE /* View_Change_Language */,
+				7DE124482B908416004F6422 /* View_CheckPermisson */,
+				7DA101BD2AD167A90066DD26 /* SettingView */,
+				7DA101B82AD14B2A0066DD26 /* InstructView */,
+				7DA101B72AD14A690066DD26 /* ChangePassView */,
+				7DA101B42AD148E80066DD26 /* CheckpassView */,
 				7DA101B12AD0FD1C0066DD26 /* LaunchScreen */,
 				7DA101B02AD0FCC70066DD26 /* IntentView */,
 				7DA101AB2AD0F6A20066DD26 /* ThemeView */,
@@ -373,10 +463,11 @@
 		7D3C07CC2ACD0CD5005F2CD1 /* GoogleAdmob */ = {
 			isa = PBXGroup;
 			children = (
+				7DE1245D2B908CFE004F6422 /* Ads_AppOpen */,
+				7DE124422B906C24004F6422 /* AdsChangeLanguage.xib */,
+				7DE1243A2B905BDF004F6422 /* GADNativeAdView.xib */,
 				7D54B38E2AC125DD006EABF3 /* AdView.swift */,
-				7D6CE6222AC564C300CDFF9F /* AdsChangeLanguage.xib */,
-				7DBB6D682AC4389B00F7071A /* AppOpenAdManager.swift */,
-				7DBB6D622AC3C17500F7071A /* GADNativeAdView.xib */,
+				7DBB6D682AC4389B00F7071A /* AppOpenAdManagerr.swift */,
 				7D2F63DF2ACDAD6E007E9C54 /* AdsChangeLanguage.swift */,
 			);
 			path = GoogleAdmob;
@@ -445,6 +536,84 @@
 			path = LaunchScreen;
 			sourceTree = "<group>";
 		};
+		7DA101B42AD148E80066DD26 /* CheckpassView */ = {
+			isa = PBXGroup;
+			children = (
+				7DF4F25D2AB343C200214432 /* CheckPass.swift */,
+			);
+			path = CheckpassView;
+			sourceTree = "<group>";
+		};
+		7DA101B72AD14A690066DD26 /* ChangePassView */ = {
+			isa = PBXGroup;
+			children = (
+				7D3D1EF02AAC2A1200326B51 /* ChangePass.swift */,
+			);
+			path = ChangePassView;
+			sourceTree = "<group>";
+		};
+		7DA101B82AD14B2A0066DD26 /* InstructView */ = {
+			isa = PBXGroup;
+			children = (
+				7D92EA982AA7318F00576D09 /* InstructViewController.swift */,
+				7DA101B92AD14B5C0066DD26 /* InstrucView+TableView.swift */,
+			);
+			path = InstructView;
+			sourceTree = "<group>";
+		};
+		7DA101BD2AD167A90066DD26 /* SettingView */ = {
+			isa = PBXGroup;
+			children = (
+				7D9660B12AAEBCDC0024F05D /* Setting.swift */,
+				7DA101BE2AD167CA0066DD26 /* Setting + TableView.swift */,
+			);
+			path = SettingView;
+			sourceTree = "<group>";
+		};
+		7DCF28E32AE56FBF00F046BB /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				7A6DFD182539C377005992C6 /* Info.plist */,
+			);
+			path = "Support Files";
+			sourceTree = "<group>";
+		};
+		7DE124482B908416004F6422 /* View_CheckPermisson */ = {
+			isa = PBXGroup;
+			children = (
+				7DE1244B2B908416004F6422 /* ViewCheckPermission.swift */,
+				7DE1244C2B908416004F6422 /* ViewCheckPermission+Collectiomn.swift */,
+				7DE1244D2B908416004F6422 /* ViewPermission+func.swift */,
+			);
+			path = View_CheckPermisson;
+			sourceTree = "<group>";
+		};
+		7DE124552B90888C004F6422 /* Cell_Collection */ = {
+			isa = PBXGroup;
+			children = (
+				7DE124562B90888C004F6422 /* CellCollection.swift */,
+			);
+			path = Cell_Collection;
+			sourceTree = "<group>";
+		};
+		7DE124582B908B24004F6422 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				7DE124592B908B24004F6422 /* AppData.swift */,
+				7DE1245A2B908B24004F6422 /* AppColor.swift */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		7DE1245D2B908CFE004F6422 /* Ads_AppOpen */ = {
+			isa = PBXGroup;
+			children = (
+				7DE1245E2B908CFE004F6422 /* GoogleMobileAdsConsentManager.swift */,
+				7DE1245F2B908CFE004F6422 /* AppOpenAdManager.swift */,
+			);
+			path = Ads_AppOpen;
+			sourceTree = "<group>";
+		};
 		94AFD214AB73A933FF89E21B /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -509,7 +678,7 @@
 				KnownAssetTags = (
 					New,
 				);
-				LastSwiftUpdateCheck = 1200;
+				LastSwiftUpdateCheck = 1520;
 				LastUpgradeCheck = 1200;
 				TargetAttributes = {
 					7A6DFD062539C374005992C6 = {
@@ -537,6 +706,8 @@
 				ko,
 				ja,
 				th,
+				"zh-Hant",
+				Base,
 			);
 			mainGroup = 7A6DFCFE2539C374005992C6;
 			packageReferences = (
@@ -559,16 +730,17 @@
 				7D789C1D2AB98F5B007FD985 /* CellChangeLanguage.xib in Resources */,
 				7D9FF8FC2AA8BAC8008D5E7B /* TableViewCell.xib in Resources */,
 				7D1D30C02AA9D81700FE3DE0 /* PopupUnlock.xib in Resources */,
-				7DBB6D632AC3C17500F7071A /* GADNativeAdView.xib in Resources */,
 				7D1D30BC2AA9BFE900FE3DE0 /* PopupViewController.xib in Resources */,
 				7D480F952ACE5BAE0084C84B /* PopupRating.xib in Resources */,
 				7D9660D92AAF128D0024F05D /* Localizable.strings in Resources */,
 				7D9660CF2AAF0AB80024F05D /* Main.storyboard in Resources */,
 				7A6DFD142539C377005992C6 /* Assets.xcassets in Resources */,
+				7DE1243B2B905BDF004F6422 /* GADNativeAdView.xib in Resources */,
 				7D3CBE442ABA8B110021AC17 /* SecutityQuestionPopUp.xib in Resources */,
 				7DB06F832ABBDA7600B1074C /* animation_lmsiuffa.json in Resources */,
+				7DA6BB3E2B9EAB0B00762567 /* LaunchScreen.storyboard in Resources */,
 				7DF29E4A2AB176AC0067A1A0 /* HdCell.xib in Resources */,
-				7D6CE6232AC564C300CDFF9F /* AdsChangeLanguage.xib in Resources */,
+				7DE124432B906C24004F6422 /* AdsChangeLanguage.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -651,45 +823,68 @@
 			buildActionMask = 2147483647;
 			files = (
 				7D1D30BF2AA9D81700FE3DE0 /* PopupUnlock.swift in Sources */,
+				7DA101BC2AD164520066DD26 /* InstructViewModel.swift in Sources */,
+				7DA101C12AD1691B0066DD26 /* SettingViewModel.swift in Sources */,
+				7DE124572B90888C004F6422 /* CellCollection.swift in Sources */,
 				7D92EA952AA715E600576D09 /* lockscreenViewController.swift in Sources */,
+				7D0F82F12B95A69000CCACAE /* ViewHome+Searchbar.swift in Sources */,
 				7D480F972ACE671C0084C84B /* RatingController.swift in Sources */,
 				7D3C07D12ACD137F005F2CD1 /* RealmManager.swift in Sources */,
 				7DFA04FC2AB408F800EFEA53 /* ThemeController.swift in Sources */,
 				7D54B38F2AC125DD006EABF3 /* AdView.swift in Sources */,
 				7D480F9B2ACEAA620084C84B /* UIViewController+Extensions.swift in Sources */,
-				7DBB6D692AC4389B00F7071A /* AppOpenAdManager.swift in Sources */,
+				7DA101BF2AD167CA0066DD26 /* Setting + TableView.swift in Sources */,
+				7DBB6D692AC4389B00F7071A /* AppOpenAdManagerr.swift in Sources */,
 				7D3C07C32ACD0341005F2CD1 /* Color+Extensions.swift in Sources */,
+				7DE124502B908416004F6422 /* ViewCheckPermission.swift in Sources */,
 				7DFA05002AB43AEC00EFEA53 /* ThemeItem.swift in Sources */,
+				7D0F82EF2B95A66400CCACAE /* ViewHome+setup.swift in Sources */,
 				7DD00A412ACFE38500871089 /* ThemeViewModel.swift in Sources */,
+				7D0F82E62B95A4EF00CCACAE /* Change_Language + tableView.swift in Sources */,
 				7D2F63E02ACDAD6E007E9C54 /* AdsChangeLanguage.swift in Sources */,
+				7D0F82F32B95A6A000CCACAE /* ViewHome+ADS.swift in Sources */,
+				7DE124512B908416004F6422 /* ViewCheckPermission+Collectiomn.swift in Sources */,
 				7D3CBE432ABA8B110021AC17 /* SecutityQuestionPopUp.swift in Sources */,
 				7DF29E492AB176AC0067A1A0 /* HdCell.swift in Sources */,
 				7DF88C452AB5574D005BB1D4 /* LanguageManager.swift in Sources */,
 				7DB06F8B2ABBE1BA00B1074C /* LaunchScreenFile.swift in Sources */,
 				7D9660B22AAEBCDC0024F05D /* Setting.swift in Sources */,
+				7D0F82EA2B95A5C200CCACAE /* Change_Language+ADS.swift in Sources */,
 				7D789C192AB98ABF007FD985 /* ChangeLanguage.swift in Sources */,
 				7DA101AF2AD0FB2C0066DD26 /* IntentViewModel.swift in Sources */,
+				7DA101BA2AD14B5C0066DD26 /* InstrucView+TableView.swift in Sources */,
 				7D7F7B112AAABF9500234AA8 /* Item.swift in Sources */,
+				7DE124602B908CFE004F6422 /* GoogleMobileAdsConsentManager.swift in Sources */,
+				7D0F82F52B95A7AA00CCACAE /* ViewHome+Tap.swift in Sources */,
 				7D3C07C52ACD034F005F2CD1 /* Font+Extensions.swift in Sources */,
 				7D789C1C2AB98F5B007FD985 /* CellChangeLanguage.swift in Sources */,
 				7D9FF8FB2AA8BAC8008D5E7B /* TableViewCell.swift in Sources */,
+				7DE124522B908416004F6422 /* ViewPermission+func.swift in Sources */,
 				7DFFF22A2A9F323B00D5E923 /* UserDefaultsManager.swift in Sources */,
 				7DF88C492AB568B7005BB1D4 /* MBSViewPattern.swift in Sources */,
+				7D0F82F72B95A94200CCACAE /* ViewHome+func.swift in Sources */,
+				7DA101B62AD1494C0066DD26 /* ChangePassViewModel.swift in Sources */,
 				7DD00A432ACFEA4A00871089 /* ThemeController+CollectionView.swift in Sources */,
+				7DE1245C2B908B24004F6422 /* AppColor.swift in Sources */,
 				7DF88C472AB56251005BB1D4 /* Data.swift in Sources */,
 				7D1D30BB2AA9BFE900FE3DE0 /* PopupViewController.swift in Sources */,
 				7DA101B32AD1082C0066DD26 /* CheckPassViewModel.swift in Sources */,
 				7DA101AD2AD0F9FE0066DD26 /* IntentViewController.swift in Sources */,
+				7DE124542B90872B004F6422 /* UIView + extension.swift in Sources */,
+				7D0F82ED2B95A65600CCACAE /* ViewHome+TBview.swift in Sources */,
 				7DF4F25E2AB343C200214432 /* CheckPass.swift in Sources */,
 				7D3C07BD2ACD0249005F2CD1 /* Image+Extensions.swift in Sources */,
 				7D3C07C72ACD03F8005F2CD1 /* truncateText.swift in Sources */,
 				7D3D1EF12AAC2A1200326B51 /* ChangePass.swift in Sources */,
-				7D92EA992AA7318F00576D09 /* SecureViewController.swift in Sources */,
+				7D92EA992AA7318F00576D09 /* InstructViewController.swift in Sources */,
 				7D480F942ACE5BAE0084C84B /* PopupRating.swift in Sources */,
+				7D0F82E82B95A4FD00CCACAE /* Change_Language+setup.swift in Sources */,
 				7D3C07BB2ACD020D005F2CD1 /* SearchBar+Extensions.swift in Sources */,
 				7A6DFD0B2539C374005992C6 /* AppDelegate.swift in Sources */,
 				7D04B2252AB06B3300FCAF71 /* GradientBackgroundViewController.swift in Sources */,
 				7A6DFD362539C426005992C6 /* Intent.intentdefinition in Sources */,
+				7DE124612B908CFE004F6422 /* AppOpenAdManager.swift in Sources */,
+				7DE1245B2B908B24004F6422 /* AppData.swift in Sources */,
 				7DFA04FE2AB40D7500EFEA53 /* CollectionCell.swift in Sources */,
 				7D480F992ACE9C0B0084C84B /* SendMail.swift in Sources */,
 			);
@@ -731,6 +926,7 @@
 				7D789C202AB9ADD5007FD985 /* ko */,
 				7D789C212AB9ADE0007FD985 /* ja */,
 				7D789C222AB9ADF0007FD985 /* th */,
+				7DE9900E2B91699900828B34 /* zh-Hant */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -864,17 +1060,25 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = SiriIntentDemo/SiriIntentDemo.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 7SU5J2G662;
-				INFOPLIST_FILE = SiriIntentDemo/Info.plist;
+				CURRENT_PROJECT_VERSION = 2.2;
+				DEVELOPMENT_TEAM = 7B36UAJP97;
+				INFOPLIST_FILE = "$(SRCROOT)/SiriIntentDemo/Support Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.test.test-Core-Datac";
+				MARKETING_VERSION = 2.2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bkit.App.Lock;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -886,17 +1090,25 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = SiriIntentDemo/SiriIntentDemo.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 7SU5J2G662;
-				INFOPLIST_FILE = SiriIntentDemo/Info.plist;
+				CURRENT_PROJECT_VERSION = 2.2;
+				DEVELOPMENT_TEAM = 7B36UAJP97;
+				INFOPLIST_FILE = "$(SRCROOT)/SiriIntentDemo/Support Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.test.test-Core-Datac";
+				MARKETING_VERSION = 2.2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bkit.App.Lock;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -906,18 +1118,22 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = SiriIntent/SiriIntent.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 7SU5J2G662;
+				DEVELOPMENT_TEAM = 7B36UAJP97;
 				INFOPLIST_FILE = SiriIntent/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.test.test-Core-Datac.intentt";
+				PRODUCT_BUNDLE_IDENTIFIER = com.bkit.App.Lock.intent;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -926,19 +1142,25 @@
 			baseConfigurationReference = 48F47446E79AA2F987F7FA9A /* Pods-SiriIntent.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = SiriIntent/SiriIntent.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 7SU5J2G662;
+				DEVELOPMENT_TEAM = 7B36UAJP97;
 				INFOPLIST_FILE = SiriIntent/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.test.test-Core-Datac.intentt";
+				PRODUCT_BUNDLE_IDENTIFIER = com.bkit.App.Lock.intent;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

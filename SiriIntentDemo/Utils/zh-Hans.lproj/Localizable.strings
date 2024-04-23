@@ -57,7 +57,8 @@
 // Ngôn ngữ
 "Select your language" = "选择您的语言";
 "de" = "德语";
-"zh-Hans" = "简体中文";
+"zh-Hans" = "中文（简体）";
+"zh-Hant" = "中文（繁體）";
 "en" = "英语";
 "es" = "西班牙语";
 "it" = "意大利语";
@@ -86,3 +87,9 @@
 "LATER" = "稍后";
 "RATE" = "评价";
 "You have not rated!" = "您尚未评价！";
+"The application uses tracking data to provide personalized advertising." = "该应用程序使用跟踪数据来提供个性化广告。";
+
+"Ad Setting" = "广告设置";
+"Allow interest-based ads and data collection for targeted advertising purposes?" = "是否允许基于兴趣的广告和数据收集以用于定向广告目的？";
+"By enabling this option, you consent to the collection of information about your preferences, online activities, and interactions with ads. This data will be used to tailor advertisements specifically to your interests and deliver a more personalized advertising experience." = "通过启用此选项，您同意收集有关您的偏好、在线活动和与广告的互动的信息。此数据将用于根据您的兴趣量身定制广告，并提供更个性化的广告体验。";
+"Understood" = "明白了";

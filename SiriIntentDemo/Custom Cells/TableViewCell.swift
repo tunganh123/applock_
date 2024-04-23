@@ -23,7 +23,7 @@ class TableViewCell: UITableViewCell {
         // Thay đổi kích thước UISwitch
         let scale: CGFloat = 0.8 // Tỷ lệ thay đổi kích thước, có thể thay đổi theo ý muốn
         sw.transform = CGAffineTransform(scaleX: scale, y: scale)
-
+        lb2.textColor = AppColor.white_gray_background
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {

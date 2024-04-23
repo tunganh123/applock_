@@ -56,6 +56,7 @@ class PopupViewController: UIViewController {
         self.question.layer.borderWidth = 2
         self.question.layer.borderColor = UIColor.black.cgColor
         self.question.layer.cornerRadius = self.question.frame.height / 2
+        lb2.textColor = AppColor.gray_gray_background
     }
 
     func appear(sender: UIViewController) {

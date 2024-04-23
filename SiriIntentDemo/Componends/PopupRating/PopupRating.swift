@@ -34,10 +34,12 @@ class PopupRating: UIViewController {
     }
 
     private func configView() {
-        view.backgroundColor = .clear
+        view.backgroundColor = .clear 
         lbtitle.text = Data.Ratingtitle.localized()
         lbInstruct.text = Data.Ratingbody.localized()
         btnlater.setTitle(Data.Ratingbtnlater.localized(), for: .normal)
+        btnlater.backgroundColor = AppColor.gray_icon
+        btnrate.backgroundColor = AppColor.gray_icon
         btnrate.setTitle(Data.Ratingbtnrate.localized(), for: .normal)
         backview.backgroundColor = .black.withAlphaComponent(0.8)
         viewContent.backgroundColor = UIColor.white

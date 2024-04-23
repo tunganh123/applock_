@@ -1,6 +1,7 @@
 //Language
 "de" = "German";
 "zh-Hans" = "Simplified Chinese";
+"zh-Hant" = "Traditional Chinese";
  "en" = "English";
  "es" = "Spanish";
  "it" = "Italian";

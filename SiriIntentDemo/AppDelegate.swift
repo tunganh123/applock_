@@ -1,4 +1,3 @@
-import AppTrackingTransparency
 import GoogleMobileAds
 import MBSPasswordView
 import UIKit
@@ -10,14 +9,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     var window: UIWindow?
-    func applicationDidBecomeActive(_ application: UIApplication) {
-        if #available(iOS 14.0, *) {
-                ATTrackingManager.requestTrackingAuthorization(completionHandler: { status in
-                    // Tracking authorization completed. Start loading ads here.
-                    // loadAd()
-                })
-        }
-    }
+    func applicationDidBecomeActive(_ application: UIApplication) {}
 
     func application(_ application: UIApplication, willFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil) -> Bool {
         UIApplication.shared.statusBarStyle = .lightContent

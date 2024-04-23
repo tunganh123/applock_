@@ -62,9 +62,10 @@ PODS:
 
 DEPENDENCIES:
   - Google-Mobile-Ads-SDK
+  - GoogleUserMessagingPlatform
   - Localize-Swift (~> 3.2)
   - lottie-ios
-  - MBSPasswordView
+  - MBSPasswordView (from `https://github.com/tunganh123/MBS.git`, branch `main`)
   - RealmSwift
 
 SPEC REPOS:
@@ -75,11 +76,20 @@ SPEC REPOS:
     - GoogleUtilities
     - Localize-Swift
     - lottie-ios
-    - MBSPasswordView
     - nanopb
     - PromisesObjC
     - Realm
     - RealmSwift
+
+EXTERNAL SOURCES:
+  MBSPasswordView:
+    :branch: main
+    :git: https://github.com/tunganh123/MBS.git
+
+CHECKOUT OPTIONS:
+  MBSPasswordView:
+    :commit: db7ef7c86f58115736b093cf719ce1045bef20ed
+    :git: https://github.com/tunganh123/MBS.git
 
 SPEC CHECKSUMS:
   Google-Mobile-Ads-SDK: 509e53bd31c6accb2d9c33b0eb66df1d54dda622
@@ -94,6 +104,6 @@ SPEC CHECKSUMS:
   Realm: f433b80a05f68575e88364d6fcc6234965ccc5af
   RealmSwift: 757e1416e2314f7e1543abdb2aa65b311d7b6545
 
-PODFILE CHECKSUM: ea7e74ccb559647f49e38779b668476c8c982dbd
+PODFILE CHECKSUM: eb5e7f620eb725e9dd2e386f85d619d1581454f4
 
 COCOAPODS: 1.12.1

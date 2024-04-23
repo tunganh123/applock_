@@ -19,7 +19,6 @@ class ThemeController: GradientBackgroundViewController, GADNativeAdDelegate {
         collection.collectionViewLayout = layout
         // Do any additional setup after loading the view.
         nativemanager = NativeManager(rootViewController: self)
-        
         themeviewModel = ThemeViewModel()
     }
 

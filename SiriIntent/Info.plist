@@ -55,6 +55,6 @@
 		<string>$(PRODUCT_MODULE_NAME).IntentHandler</string>
 	</dict>
 	<key>NSFaceIDUsageDescription</key>
-	<string>chekc</string>
+	<string>Request permission to utilize Face ID for authentication purposes.</string>
 </dict>
 </plist>

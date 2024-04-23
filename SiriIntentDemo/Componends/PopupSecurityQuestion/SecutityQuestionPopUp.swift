@@ -57,11 +57,12 @@ class SecutityQuestionPopUp: UIViewController, UITextFieldDelegate {
         textfield.leftViewMode = .always
         textfield.tintColor = UIColor(hex: Data.GradientEnd)
         lbInstruct.font = UIFont.italicSystemFont(ofSize: 14)
-
+        textfield.backgroundColor = AppColor.white_background
         // Thiết lập nội dung
         lbtitle.text = Data.lbQuestionTitle.localized()
         lbQuestion.text = Data.textQuestion.localized()
         lbInstruct.text = Data.lbInstruct.localized()
+        lbInstruct.textColor = AppColor.gray_gray_background
         btncancel.setTitle(Data.btncancel.localized(), for: .normal)
         btnnext.setTitle(Data.btnnext.localized(), for: .normal)
     }

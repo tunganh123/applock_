@@ -7,7 +7,7 @@ class OrderSelectionIntentHandler: NSObject, OrderSelectionIntentHandling {
 
     func provideOrderTypeOptionsCollection(for intent: OrderSelectionIntent, with completion: @escaping (INObjectCollection<NSString>?, Error?) -> Void) {
         for item in a {
-            if let defaults = UserDefaults(suiteName: "group.com.test.test-Core-Datac.intent") {
+            if let defaults = UserDefaults(suiteName: "group.groupintent") {
                 let savedCheck = defaults.value(forKey: item.name) as? Bool
                 if savedCheck == true {
                     orderTypes.append(item.name as NSString)
@@ -43,7 +43,7 @@ class OrderSelectionIntentHandler: NSObject, OrderSelectionIntentHandling {
     }
 
     func handle(intent: OrderSelectionIntent, completion: @escaping (OrderSelectionIntentResponse) -> Void) {
-        if let defaults = UserDefaults(suiteName: "group.com.test.test-Core-Datac.intent") {
+        if let defaults = UserDefaults(suiteName: "group.groupintent") {
             let savedCheck = defaults.value(forKey: "checkKey") as? Bool ?? false
             var orderlist: [String] = []
             for item in a {

@@ -10,5 +10,5 @@ enum LanguageManager {
     static func changeLanguage(to language: String) {
         currentLanguage = language
         delegate?.languageDidChange()
-    }
+    } 
 }

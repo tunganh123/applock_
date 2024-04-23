@@ -59,6 +59,8 @@ class PopupUnlock: UIViewController {
         backview.alpha = 0
         contentView.alpha = 0
         contentView.layer.cornerRadius = 10
+        lb2.textColor = AppColor.gray_gray_background
+
     }
 
     func appear(sender: UIViewController) {

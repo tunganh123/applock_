@@ -59,7 +59,8 @@
 // Ngôn ngữ
 "Select your language" = "Chọn ngôn ngữ của bạn";
 "de" = "Tiếng Đức";
-"zh-Hans" = "Tiếng Trung Quốc";
+"zh-Hans" = "Tiếng Trung Quốc (Giản thể)";
+"zh-Hant" = "Tiếng Trung Quốc (Phồn thể)";
 "en" = "Tiếng Anh";
 "es" = "Tiếng Tây Ban Nha";
 "it" = "Tiếng Ý";
@@ -89,3 +90,10 @@
 "LATER" = "ĐỂ SAU";
 "RATE" = "ĐÁNH GIÁ";
 "You have not rated!" = "Bạn chưa đánh giá!";
+"The application uses tracking data to provide personalized advertising." = "Ứng dụng sử dụng dữ liệu theo dõi để cung cấp quảng cáo cá nhân hóa.";
+
+
+"Ad Setting" = "Cài đặt quảng cáo";
+"Allow interest-based ads and data collection for targeted advertising purposes?" = "Cho phép quảng cáo dựa trên sở thích và thu thập dữ liệu cho mục đích quảng cáo đích danh?";
+"By enabling this option, you consent to the collection of information about your preferences, online activities, and interactions with ads. This data will be used to tailor advertisements specifically to your interests and deliver a more personalized advertising experience." = "Bằng cách bật tùy chọn này, bạn đồng ý với việc thu thập thông tin về sở thích của bạn, các hoạt động trực tuyến và tương tác với quảng cáo. Dữ liệu này sẽ được sử dụng để tùy chỉnh quảng cáo theo ý thích của bạn và cung cấp trải nghiệm quảng cáo cá nhân hóa hơn.";
+"Understood" = "Đã Hiểu";

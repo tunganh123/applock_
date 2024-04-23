@@ -33,6 +33,7 @@ struct Data {
     static let BackgroundPopup = "0f0965"
     static let GradientStart = "08042E"
     static let GradientEnd = "0f0965"
+    static let Color_Ads_ChangeLanguage = "#05004e"
 
     // MARK: - SearchBar, texttitle
 
@@ -104,12 +105,18 @@ struct Data {
     static let Ratingtoast = "You have not rated!"
 
     // MARK: - User
-
-    static let linkapp = "https://www.yourappurl.com"
+//Appid-test ca-app-pub-3940256099942544~1458002511
+    // Appid: ca-app-pub-2710240011197720~8032192162
+    static let linkapp = "https://apps.apple.com/app/id6478912899"
     static let videoyoutube = "https://www.youtube.com/watch?v=jQyTRCE4aX8"
     static let usermail = "louistunganh@gmail.com"
-    static let idapp = "id284882215"
-    static let urlappprivacy = "https://falconsecuritylab.github.io/applock/privacy-policy-en.html?fbclid=IwAR3IweWpIcDFmsLOI6x355nR3FkzirkD_5_QN_3IivDCCQuL7DIPqhmDyZo"
-    static let IDadsnative = "ca-app-pub-3940256099942544/3986624511"
-    static let IDadsInterstitial = "ca-app-pub-3940256099942544/4411468910"
+    static let idapp = "id6478912899"
+    static let urlappprivacy = "https://falconsecuritylab.github.io/applock/privacy-policy-en.html?fbclid=IwAR0QQpk_YYWgaFQ0YN7z8GoPk569i-UIa7BXj_4_-1t8ui7e7vr-d0NyPUI"
+    static let IDadsnative = "ca-app-pub-2710240011197720/2397448457"
+    static let IDadsInterstitial = "ca-app-pub-2710240011197720/2871364822"
+    static let IDadsAppOpen = "ca-app-pub-2710240011197720/1084366780"
+  //  static let IDadsnative = "ca-app-pub-3940256099942544/3986624511"
+  //  static let IDadsInterstitial = "ca-app-pub-3940256099942544/4411468910"
+//    static let IDadsAppOpen = "ca-app-pub-3940256099942544/5575463023"
+    
 }

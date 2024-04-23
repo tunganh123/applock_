@@ -49,6 +49,36 @@
                   endingLineNumber = "45"
                   offsetFromSymbolStart = "454">
                </Location>
+               <Location
+                  uuid = "0A5AC42C-33A2-4D18-B41F-2C7A37D52B4E - 3feb4a5ce1fd921b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MBSPasswordView.MBSBodyPasswordView.btnTextColor.didset : __C.UIColor"
+                  moduleName = "MBSPasswordView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tunganh/Desktop/a/Pods/MBSPasswordView/MBSPasswordView/Classes/UI/Body/MBSBodyPasswordView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "0A5AC42C-33A2-4D18-B41F-2C7A37D52B4E - 3feb4a5ce1fd921b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MBSPasswordView.MBSBodyPasswordView.btnTextColor.didset : __C.UIColor"
+                  moduleName = "MBSPasswordView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tunganh/Desktop/a/Pods/MBSPasswordView/MBSPasswordView/Classes/UI/Body/MBSBodyPasswordView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "69">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>

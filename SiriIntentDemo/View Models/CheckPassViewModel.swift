@@ -10,13 +10,12 @@ import MBSPasswordView
 import UIKit
 protocol CheckPassViewModelDelegate: AnyObject {
     func showlockscreen()
-    func navigateToLockScreen()
 }
 
 class CheckPassViewModel {
     weak var delegate: CheckPassViewModelDelegate?
 
-    func handleBiometricSuccess(passwordView: MBSPasswordView, rootview: MBSViewPattern) {
+    func handlePassSuccess(passwordView: MBSPasswordView, rootview: MBSViewPattern) {
         if passwordView.topView.newPassword != Data.PWcreatenewPassword.localized() {
             delegate?.showlockscreen()
         } else {
@@ -27,25 +26,25 @@ class CheckPassViewModel {
         }
     }
 
-    func handleBiometricFailure(passwordView: MBSPasswordView) {
+    func handlePassFailure(passwordView: MBSPasswordView, rootview: MBSViewPattern) {
         if passwordView.topView.newPassword != Data.PWcreatenewPassword.localized() {
             // Xử lý trường hợp khi xác thực thất bại như làm gì đó
         } else {
-            // Hiển thị popup bảo mật
-            // ...
+            let overlay = SecutityQuestionPopUp()
+            overlay.delegate = rootview as? any SecutityQuestionDelegate // Đặt delegate cho overlay
+            overlay.appear(sender: rootview)
+            overlay.btncancel.isHidden = true
         }
     }
-
-    func handleAdsError() {
-        delegate?.navigateToLockScreen()
-    }
-
-    func handlePasswordOK(passwordView: MBSPasswordView) {
-        if passwordView.topView.newPassword != Data.PWcreatenewPassword.localized() {
-            delegate?.showlockscreen()
+    
+    func checkloginfirst(passwordView: MBSPasswordView){
+        if let a = passwordView.passwordRegistered() {
+            let checkString = a[0]
+            if checkString != "" {
+                passwordView.topView.newPassword = Data.PWrequestPassword.localized()
+            }
         } else {
-            // Hiển thị popup bảo mật
-            // ...
+            passwordView.topView.newPassword = Data.PWcreatenewPassword.localized()
         }
     }
 }

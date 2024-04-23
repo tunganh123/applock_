@@ -42,7 +42,7 @@ class AdsChangeLanguage: NSObject, GADAdLoaderDelegate, GADNativeAdDelegate, GAD
             adsView.leadingAnchor.constraint(equalTo: rootViewController.view.leadingAnchor, constant: 0),
             adsView.trailingAnchor.constraint(equalTo: rootViewController.view.trailingAnchor, constant: 0),
             adsView.bottomAnchor.constraint(equalTo: rootViewController.view.safeAreaLayoutGuide.bottomAnchor, constant: 0),
-            adsView.heightAnchor.constraint(equalToConstant: 200)
+            adsView.heightAnchor.constraint(equalToConstant: 180)
         ])
 
         // Thiết lập các thuộc tính của adsView
@@ -52,12 +52,12 @@ class AdsChangeLanguage: NSObject, GADAdLoaderDelegate, GADNativeAdDelegate, GAD
         viewok.translatesAutoresizingMaskIntoConstraints = false
         viewok.layer.cornerRadius = 10
         NSLayoutConstraint.activate([
-            viewok.leadingAnchor.constraint(equalTo: adsView.leadingAnchor, constant: 10),
-            viewok.trailingAnchor.constraint(equalTo: adsView.trailingAnchor, constant: -10),
+            viewok.leadingAnchor.constraint(equalTo: adsView.leadingAnchor, constant: 15),
+            viewok.trailingAnchor.constraint(equalTo: adsView.trailingAnchor, constant: -15),
             viewok.centerYAnchor.constraint(equalTo: adsView.centerYAnchor),
-            viewok.heightAnchor.constraint(equalToConstant: 180)
+            viewok.heightAnchor.constraint(equalToConstant: 160)
         ])
-        viewok.backgroundColor = UIColor(hex: Data.GradientEnd)
+        viewok.backgroundColor = UIColor(hex: Data.Color_Ads_ChangeLanguage)
     }
 
     func setAdView(_ view: GADNativeAdView) {
@@ -93,7 +93,9 @@ class AdsChangeLanguage: NSObject, GADAdLoaderDelegate, GADNativeAdDelegate, GAD
                 setAdView(nativeAdView)
                 // Set ourselves as the native ad delegate to be notified of native ad events.
                 nativeAd.delegate = self
-
+                (nativeAdView.headlineView as? UILabel)?.textColor = AppColor.white_background
+                (nativeAdView.advertiserView as? UILabel)?.textColor = AppColor.white_gray_background
+                (nativeAdView.bodyView as? UILabel)?.textColor = AppColor.gray_gray_background
                 // Populate the native ad view with the native ad assets.
                 // The headline and mediaContent are guaranteed to be present in every native ad.
                 (nativeAdView.headlineView as? UILabel)?.text = nativeAd.headline
@@ -112,13 +114,18 @@ class AdsChangeLanguage: NSObject, GADAdLoaderDelegate, GADNativeAdDelegate, GAD
                 (nativeAdView.callToActionView as? UIButton)?.layer.borderColor = UIColor.systemBlue.cgColor
                 nativeAdView.callToActionView?.isHidden = nativeAd.callToAction == nil
 
-                if let iconImage = nativeAd.icon?.image {
-                    // Nếu nativeAd.icon?.image không nil, gán giá trị cho nativeAdView.iconView
-                    (nativeAdView.iconView as? UIImageView)?.image = iconImage
-                } else {
-                    (nativeAdView.bodyView as? UILabel)?.leadingAnchor.constraint(equalTo: nativeAdView.leadingAnchor, constant: 15).isActive = true
+                if let stackView = nativeAdView.subviews.first(where: { $0 is UIStackView }) as? UIStackView {
+                    if let iconImage = nativeAd.icon?.image {
+                        // Nếu nativeAd.icon?.image không nil, gán giá trị cho nativeAdView.iconView
+                        (nativeAdView.iconView as? UIImageView)?.image = iconImage
 
-                    (nativeAdView.headlineView as? UILabel)?.leadingAnchor.constraint(equalTo: nativeAdView.leadingAnchor, constant: 15).isActive = true
+                    } else {
+                        stackView.leadingAnchor.constraint(equalTo: nativeAdView.leadingAnchor, constant: 15).isActive = true
+                    }
+                    if let adver = nativeAd.advertiser {
+                    } else {
+                        (nativeAdView.advertiserView as? UILabel)?.isHidden = true
+                    }
                 }
                 nativeAdView.iconView?.isHidden = nativeAd.icon == nil
 

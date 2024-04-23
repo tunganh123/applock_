@@ -8,7 +8,7 @@
 import Foundation
 class UserDefaultsManager {
     static let shared = UserDefaultsManager()
-    private let suiteName = "group.com.test.test-Core-Datac.intent"
+    private let suiteName = "group.groupintent"
     
     private init() {} // Khác biệt
 

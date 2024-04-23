@@ -57,7 +57,8 @@
 // Ngôn ngữ
 "Select your language" = "Wählen Sie Ihre Sprache";
 "de" = "Deutsch";
-"zh-Hans" = "Vereinfachtes Chinesisch";
+"zh-Hans" = "Chinesisch (vereinfacht)";
+"zh-Hant" = "Chinesisch (traditionell)";
 "en" = "Englisch";
 "es" = "Spanisch";
 "it" = "Italienisch";
@@ -86,3 +87,8 @@
 "LATER" = "SPÄTER";
 "RATE" = "BEWERTEN";
 "You have not rated!" = "Sie haben noch nicht bewertet!";
+
+"Ad Setting" = "Werbeeinstellungen";
+"Allow interest-based ads and data collection for targeted advertising purposes?" = "Erlauben Sie interessenbasierte Anzeigen und Datensammlung für zielgerichtete Werbezwecke?";
+"By enabling this option, you consent to the collection of information about your preferences, online activities, and interactions with ads. This data will be used to tailor advertisements specifically to your interests and deliver a more personalized advertising experience." = "Durch Aktivieren dieser Option stimmen Sie der Sammlung von Informationen über Ihre Präferenzen, Online-Aktivitäten und Interaktionen mit Anzeigen zu. Diese Daten werden verwendet, um Anzeigen speziell auf Ihre Interessen zuzuschneiden und Ihnen eine personalisiertere Werbeerfahrung zu bieten.";
+"Understood" = "Verstanden";
